@@ -1,0 +1,58 @@
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.vs/
+*~
+*.swp
+*.swo
+
+# Node modules if you use any scripts
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+cache/
+tmp/
+
+# Build or compiled output (if you generate any)
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Log files
+*.log
+logs/
+
+# Database files
+*.sqlite
+*.db
+
+# Other potentially unwanted files
+*.bak
+*.backup
+*.old
+*.zip
+*.tar.gz
