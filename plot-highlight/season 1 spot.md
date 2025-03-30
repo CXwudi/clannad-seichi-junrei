@@ -2,7 +2,7 @@
 
 ## 注意事项
 
-每看一集之前, 先去http://air.blue.coocan.jp/seichi-list.html#clannad打开当前一集快速查看一下主要圣地
+每看一集之前, 先去 http://air.blue.coocan.jp/seichi-list.html#clannad 打开当前一集快速查看一下主要圣地
 
 看时, 记录关键剧情
 
@@ -29,6 +29,64 @@
 - 放学时在人行横道, 渚介绍自己家
 - 来古河面包房, 介绍父母和古河家庭
 - 最后介绍朋也家庭情况, 和父亲和关系, 逃出家后遇见渚练习演习
+
+### Highlight 地点
+
+![alt text](img/clan-1-keiro.jpg)
+
+讨厌这个小镇
+
+![alt text](img/cla-ha-5.jpg)
+![alt text](img/clan-1-0.jpg)
+
+![alt text](img/cla-ha-6.jpg)
+![alt text](img/clan-1-1.jpg)
+
+![alt text](img/cla-ha-7.jpg)
+![alt text](img/clan-1-2.jpg)
+
+![alt text](img/cla-ha-4.jpg)
+![alt text](img/cla-ha-4-s.jpg)
+
+![alt text](img/cla-ha-sp.jpg)
+![alt text](img/cla-vc-1.jpg)
+
+![alt text](img/cla-ha-8.jpg)
+![alt text](img/clan-1-5.jpg)
+
+![alt text](img/cla-vc-0-s.jpg)
+![alt text](img/clan-1-6.jpg)
+
+![alt text](img/cla-pb-4-s0.jpg)
+![alt text](img/clan-1-7.jpg)
+
+放学后的无所事事
+
+![alt text](img/cla-1-45-s.jpg)
+![alt text](img/cla-1-45.jpg)
+
+放学时渚介绍自己家
+
+![alt text](img/cla-pre-closs-0.jpg)
+![alt text](img/cla-pb-0.jpg)
+
+![alt text](img/cla-pre-closs-13.jpg)
+![alt text](img/cla-pb-1.jpg)
+
+从渚家出来
+
+![alt text](img/cla-1-15-s0.jpg)
+![alt text](img/clan-1-70.jpg)
+
+![alt text](img/cla-1-
+
+![alt text](cla-1-14-s0.jpg)
+![alt text](clan-1-71.jpg)
+
+从家里逃出去
+
+![alt text](cla-1-12-s0.jpg)
+![alt text](cla-1-12.jpg)
 
 ## 2. 最初的一步
 
@@ -58,13 +116,13 @@
 
 朋也出逃
 
-![alt text](clan-2-72.jpg)
-![alt text](cla-ha-9.jpg)
+![alt text](img/clan-2-72.jpg)
+![alt text](img/cla-ha-9.jpg)
 
 与渚谈心并建议篮球
 
-![alt text](clan-2-78-s.jpg)
-![alt text](clan-2-78.jpg)
+![alt text](img/clan-2-78-s.jpg)
+![alt text](img/clan-2-78.jpg)
 
 ## 3. 泪水之后再来一次
 
@@ -85,10 +143,10 @@
 
 上学路上的放野
 
-![alt text](cla-3-0-s0.jpg)
-![alt text](cla-3.wmv_000309976.jpg)
+![alt text](img/cla-3-0-s0.jpg)
+![alt text](img/cla-3.wmv_000309976.jpg)
 
-## 4. 学着伙伴
+## 4. 寻找伙伴
 
 - 朋也尝试帮助渚募集成员, 即使学生会阻止, 安慰渚
 - 智代第4次
@@ -100,10 +158,9 @@
 - 重新给椋和杏介绍了演习部复部,
 - 智代第5次, 朋也出损招, 智代表示要竞选学生会长
 - 朋也尝试邀请琴美去演习部
-- 朋也邀请风子, 正式进入风子线
+- 朋也邀请风子去演习部, 正式进入风子线
   - 风子本应该处于车祸在医院状态
 
 ### Highlight 地点
 
 无
-

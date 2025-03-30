@@ -6,4 +6,4 @@ The goal of this memory is to help pinpoint the events in the anime, and quickly
 
 Unfortunately this memory is written in Chinese, so feel free to copy and paste to LLM for translation. Recommended Gemini 2.0 Pro series for translation.
 
-
+Special thanks for http://air.blue.coocan.jp/seichi-list.html#clannad
