@@ -27,6 +27,30 @@
 ![alt text](img/cla-8-11.jpg)
 ![alt text](img/cla-8-30.jpg)
 
+![alt text](<img/2025-03-30 01-18-46.jpg>)
+
+第11集
+
+![alt text](img/cla-11-51-s.jpg)
+![alt text](img/cla-11-52.jpg)
+
+![alt text](img/cla-11-53-s.jpg)
+![alt text](img/cla-11-53.jpg)
+
+![alt text](img/cla-11-56.jpg)
+![alt text](img/cla-11-54.jpg)
+
+同时OP中方野和伊吹出现的地方
+![alt text](<img/2025-03-30 23-28-08.jpg>)
+
+第12集
+
+![alt text](img/cla-12-69-s.jpg)
+![alt text](img/cla-12-69.jpg)
+
+![alt text](img/cla-12-72-s.jpg)
+![alt text](img/cla-12-72.jpg)
+
 
 ## 学校门口
 
@@ -44,5 +68,5 @@
 
 第5集
 
-![alt text](img/2025-03-29 22-03-14.jpg)
-![alt text](img/2025-03-29 22-06-34.jpg)
+![alt text](<img/2025-03-29 22-03-14.jpg>)
+![alt text](<img/2025-03-29 22-06-34.jpg>)
