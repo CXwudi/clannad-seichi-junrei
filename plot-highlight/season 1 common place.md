@@ -71,6 +71,14 @@
 ![alt text](img/cla15-0148.jpg)
 ![alt text](img/cla15-0151.jpg)
 
+第16集
+
+![alt text](img/cla16-0044-s0.jpg)
+![alt text](img/cla16-0044.jpg)
+
+![alt text](img/clan-1-20-s.jpg)
+![alt text](img/cla16-0046.jpg)
+
 ## 学校门口
 
 ![alt text](img/cla-1-9-s1.jpg)
