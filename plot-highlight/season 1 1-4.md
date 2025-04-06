@@ -18,7 +18,7 @@
 
 ![alt text](img/clan-1-keiro.jpg)
 
-讨厌这个小镇
+讨厌这个小镇 (需要去樱花坡道上的那个楼的展望台拍)
 
 ![alt text](img/cla-ha-5.jpg)
 ![alt text](img/clan-1-0.jpg)

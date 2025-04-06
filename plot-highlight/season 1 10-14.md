@@ -180,9 +180,6 @@
 
 商店街
 
-![alt text](img/cla-12-13-s.jpg)
-![alt text](img/cla-12-13.jpg)
-
 ![alt text](img/cla-12-23-s.jpg)
 ![alt text](img/cla-12-23.jpg)
 
@@ -227,7 +224,7 @@
 ![alt text](img/cla-12-60.jpg)
 
 ![alt text](img/cla-12-61-s.jpg)
-![alt text](cla-12-61.jpg)
+![alt text](img/cla-12-61.jpg)
 
 车祸现场
 
@@ -352,8 +349,8 @@
 ![alt text](img/cla140015.jpg)
 ![alt text](img/cla140019.jpg)
 
-![alt text](cla140153-s.jpg) (表纸右边那栋)
-![alt text](cla140153.jpg)
+![alt text](img/cla140153-s.jpg) (表纸右边那栋)
+![alt text](img/cla140153.jpg)
 
 ## 琴美家附近房子方位图
 
@@ -361,6 +358,12 @@
 
 ![alt text](img/kotomi-around-14.jpg)
 
-1,2为表纸左右两边的房子 
+1,2为表纸左右两边的房子
 
 (我不能再hint下去了, 再hint就差直接报地址了)
+
+## 风子线总结
+
+讲述了平行世界世界观
+那一句"前天看到了小兔，昨天是小鹿，今天是你"
+是风子与朋也小时候的相遇后的再次相遇
