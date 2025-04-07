@@ -226,9 +226,9 @@
 ![alt text](img/cla-12-61-s.jpg)
 ![alt text](img/cla-12-61.jpg)
 
-车祸现场
+车祸现场 (其实就是樱花坡道的开端的十字路口处)
 
-![alt text](img/cla-12-74-s.jpg)
+![alt text](img/cla-12-74-s.jpg) (这张不在)
 ![alt text](img/cla-12-74.jpg)
 
 ![alt text](img/cla-12-75-s.jpg)

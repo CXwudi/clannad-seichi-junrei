@@ -1,9 +1,21 @@
 ## Clannad 第一季常见地点
 
 ## 朋也家
+所有朋也家认准这张
 
 ![alt text](img/cla-1-13-s0.jpg)
+
+第1集
+
+![alt text](img/clan-1-73.jpg)
+
+第17集
+
 ![alt text](img/cla17-0024.jpg)
+
+第19集
+
+![alt text](img/cla19-0050.jpg)
 
 ## 樱花道
 
@@ -98,6 +110,11 @@
 ![alt text](img/cla15-0139-s.jpg)
 ![alt text](img/cla18-0198.jpg)
 
+第19集
+
+![alt text](img/cla19-0043.jpg)
+![alt text](img/CIMG2349.jpg)
+
 ## 学校门口
 
 ![alt text](img/cla-1-9-s1.jpg)
@@ -132,6 +149,15 @@
 
 ![alt text](img/cla17-0015.jpg)
 ![alt text](img/cla17-0016.jpg)
+
+第19集
+
+![alt text](img/cla19-0116.jpg)
+
+第20集
+
+![alt text](img/cla20-0018-s.jpg)(其实这种秋千到处都是)
+![alt text](img/cla20-0018.jpg)
 
 ## 电车站
 
