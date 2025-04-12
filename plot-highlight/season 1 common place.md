@@ -115,10 +115,34 @@
 ![alt text](img/cla19-0043.jpg)
 ![alt text](img/CIMG2349.jpg)
 
+第22集
+
+![alt text](img/cla-22-0002-s.jpg)
+![alt text](img/cla-22-0002.jpg)
+
+![alt text](img/cla-22-0003-s.jpg)
+![alt text](img/cla-22-0003.jpg)
+
+![alt text](img/cla-22-0004-s.jpg)
+![alt text](img/cla-22-0004.jpg)
+
+![alt text](img/cla-22-0005-s.jpg)
+![alt text](img/cla-22-0005.jpg)
+
 ## 学校门口
 
 ![alt text](img/cla-1-9-s1.jpg)
 ![alt text](img/clan-1-22.jpg)
+
+第15集
+
+认准上一张
+![alt text](img/cla140080.jpg)
+
+第22集
+
+![alt text](img/cla-22-0234-s.jpg)
+![alt text](img/cla-22-0234.jpg)
 
 ## 春原宿舍
 
