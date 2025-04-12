@@ -145,6 +145,24 @@ AF第3集
 
 ![alt text](img/cla-af-3-181.jpg)
 
+AF第4集
+
+![alt text](img/cla-af-4-s001.jpg)
+![alt text](img/cla-af-4-012.jpg)
+![alt text](img/cla-af-4-013.jpg)
+
+![alt text](img/cla-af-4-012-s.jpg)
+![alt text](img/cla-af-4-165.jpg)
+
+![alt text](img/cla-af-4-010-s.jpg)
+![alt text](img/cla-af-4-166.jpg)
+
+![alt text](img/cla-af-4-011-s.jpg)
+![alt text](img/cla-af-4-169.jpg)
+
+![alt text](img/cla-af-4-009-s.jpg)
+![alt text](img/cla-af-4-172.jpg)
+
 ## 学校门口
 
 ![alt text](img/cla-1-9-s1.jpg)
