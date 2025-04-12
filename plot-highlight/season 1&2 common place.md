@@ -163,20 +163,42 @@ AF第4集
 ![alt text](img/cla-af-4-009-s.jpg)
 ![alt text](img/cla-af-4-172.jpg)
 
+AF第5集
+
+![alt text](img/cla-af-5-2-s.jpg)
+![alt text](img/cla-af-5-051.jpg)
+
+![alt text](img/cla-af-5-6-s.jpg)
+![alt text](img/cla-af-5-070.jpg)
+![alt text](img/cla-af-5-076.jpg)
+
+![alt text](img/cla-af-5-7-s.jpg)
+![alt text](img/cla-af-5-079.jpg)
+
 ## 学校门口
 
+认准这一张
 ![alt text](img/cla-1-9-s1.jpg)
+
+第1集
+
 ![alt text](img/clan-1-22.jpg)
 
 第15集
 
-认准上一张
 ![alt text](img/cla140080.jpg)
 
 第22集
 
 ![alt text](img/cla-22-0234-s.jpg)
 ![alt text](img/cla-22-0234.jpg)
+
+AF第5集
+
+![alt text](img/cla-af-5-053.jpg)
+![alt text](img/cla-af-5-057.jpg)
+![alt text](img/cla-af-5-064.jpg)
+
 
 ## 春原宿舍
 
@@ -190,6 +212,16 @@ AF第4集
 第17集
 
 ![alt text](img/cla17-0105.jpg)
+
+
+AF第5集
+
+![alt text](img/cla-af-5-1-s.jpg)
+![alt text](img/cla-af-5-005.jpg)
+
+![alt text](img/cla-af-5-006.jpg)
+
+
 
 ## 古河渚家与公园
 
