@@ -37,14 +37,7 @@
 
 ### Highlight 地点
 
-![alt text](img/cla19-0045-s.jpg)
-![alt text](img/cla-6-000593993.jpg)
-
-![alt text](img/cla-6-000606239-s.jpg)
-![alt text](img/cla-6-000606239.jpg)
-
-![alt text](img/cla-6-000616316-s.jpg)
-![alt text](img/cla-6-000616316.jpg)
+详见common 风子十字路口
 
 ### 7. 星形的感情
 
@@ -65,11 +58,7 @@
 
 ### Highlight 地点
 
-![alt text](img/cla-7-20-s.jpg)
-![alt text](img/cla-7-20.jpg)
-
-![alt text](img/cla-7-21-s.jpg)
-![alt text](img/cla-7-21.jpg)
+详见common 风子十字路口
 
 ### 8. 消逝在黄昏的风
 

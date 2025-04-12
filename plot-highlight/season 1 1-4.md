@@ -52,7 +52,7 @@
 ![alt text](img/cla-1-44-s1.jpg)
 ![alt text](img/cla-1-43.jpg)
 
-放学时渚介绍自己家
+放学时渚介绍自己家 (さくら板)
 
 ![alt text](img/cla-pre-closs-0.jpg)
 ![alt text](img/cla-pb-0.jpg)
