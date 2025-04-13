@@ -187,6 +187,21 @@ AF第7集
 ![alt text](img/cla-af-7-7-s.jpg)
 ![alt text](img/cla-af-7-067.jpg)
 
+AF第9集
+
+![alt text](img/cla-ch-24.jpg)
+![alt text](img/cla-af-9-086.jpg)
+
+![alt text](img/cla-af-9-8s.jpg)
+![alt text](img/cla-af-9-103.jpg)
+
+![alt text](img/cla-ch-21.jpg)
+![alt text](img/cla-af-9-107.jpg)
+![alt text](img/cla-af-9-160.jpg)
+
+![alt text](img/cla-ch-25.jpg)
+![alt text](img/cla-af-9-184.jpg)
+
 ## 学校门口
 
 认准这一张
@@ -284,6 +299,14 @@ AF第3集
 
 ![alt text](img/image-af3-2.png)
 
+AF第10集
+
+![alt text](<img/2025-04-13 18-32-15.jpg>)
+
+另一侧
+![alt text](<img/2025-04-13 19-03-48.jpg>)
+![alt text](<img/2025-04-13 19-04-02.jpg>)
+
 ## 电车站
 
 第12集
@@ -374,3 +397,30 @@ AF第3集
 ![alt text](img/cla-af-3-001-s.jpg)
 ![alt text](img/cla-af-3-017.jpg)
 ![alt text](img/cla-af-3-019.jpg)
+
+## 商店街 (TODO)
+
+## 朋也新家
+
+吹田市千里山, 依然我们没法公开地址, 但是
+
+![alt text](img/cla-af-10-25-s.jpg) (现实生活中对面不是河岸, 相反是一个立交桥)
+![alt text](<img/2025-04-13 18-52-15.jpg>)
+![alt text](<img/2025-04-13 18-53-57.jpg>) (认准这张图里的左边黄色屋顶アパート)
+
+下面是来自[お箸が重い](http://air.blue.coocan.jp/cla-af-10.html)的CLANNAD AF 第10集方位图
+![alt text](img/komabaaround-af-10.jpg)
+
+![alt text](img/cla-af-10-47-s.jpg)
+![alt text](img/cla-af-10-111.jpg)
+
+AF第10集
+
+![alt text](img/cla-af-10-26-s.jpg)
+![alt text](img/cla-af-10-116.jpg)
+
+![alt text](img/cla-af-10-27-s.jpg)
+![alt text](img/cla-af-10-117.jpg)
+
+![alt text](img/cla-af-10-31-s.jpg)
+![alt text](img/cla-af-10-180.jpg)
