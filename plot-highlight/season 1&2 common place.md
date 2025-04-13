@@ -175,6 +175,18 @@ AF第5集
 ![alt text](img/cla-af-5-7-s.jpg)
 ![alt text](img/cla-af-5-079.jpg)
 
+AF第7集
+
+![alt text](img/cla-af-7-030.jpg)
+![alt text](img/cla-af-7-034.jpg)
+![alt text](img/cla-af-7-035.jpg)
+
+![alt text](img/cla-af-7-4-s.jpg)
+![alt text](img/cla-af-7-036.jpg)
+
+![alt text](img/cla-af-7-7-s.jpg)
+![alt text](img/cla-af-7-067.jpg)
+
 ## 学校门口
 
 认准这一张
