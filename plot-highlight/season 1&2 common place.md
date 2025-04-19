@@ -53,7 +53,7 @@
 ![alt text](img/cla-11-56.jpg)
 ![alt text](img/cla-11-54.jpg)
 
-同时OP中方野和伊吹出现的地方
+同时OP中芳野和伊吹出现的地方
 ![alt text](<img/2025-03-30 23-28-08.jpg>)
 
 第12集
@@ -202,6 +202,11 @@ AF第9集
 ![alt text](img/cla-ch-25.jpg)
 ![alt text](img/cla-af-9-184.jpg)
 
+AF第13集
+
+![alt text](img/cla-af-13-4-s.jpg)
+![alt text](img/cla-af-13-130.jpg)
+
 ## 学校门口
 
 认准这一张
@@ -250,8 +255,6 @@ AF第5集
 ![alt text](img/cla-af-5-005.jpg)
 
 ![alt text](img/cla-af-5-006.jpg)
-
-
 
 ## 古河渚家与公园
 
@@ -309,6 +312,20 @@ AF第10集
 另一侧
 ![alt text](<img/2025-04-13 19-03-48.jpg>)
 ![alt text](<img/2025-04-13 19-04-02.jpg>)
+
+AF第13集
+
+![alt text](<img/2025-04-19 00-49-58.jpg>)
+![alt text](<img/2025-04-19 00-50-26.jpg>)
+
+![alt text](<img/2025-04-19 00-56-12.jpg>)
+![alt text](<img/2025-04-19 00-55-51.jpg>)
+
+![alt text](<img/2025-04-19 01-01-03.jpg>)
+
+AF第14集
+
+![alt text](img/cla-af-14-042.jpg) (大概率拍不到这个角度)
 
 ## 电车站 (羽村駅)
 
@@ -413,6 +430,121 @@ AF第3集
 
 ## 商店街 (TODO)
 
+## どんぐり山児童公園
+
+TODO: 把春原与早苗的假装约会那一集的剧情拿过来
+
+
+AF第13集
+
+![alt text](img/cla-nag-koen-9s-1.jpg)
+![alt text](img/cla-af-13-063-1.jpg)
+
+(朋也练习棒球的一幕)
+
+![alt text](img/cla-af-13-1-s.jpg)
+![alt text](img/cla-af-13-060.jpg)
+
+![alt text](img/cla-af-13-8-s.jpg)
+![alt text](img/cla-af-13-062.jpg)
+
+(求婚决战)
+
+![alt text](<img/2025-04-19 00-59-34.jpg>)
+![alt text](<img/2025-04-19 01-01-10.jpg>)
+
+## 河道 - 八幡市木津川
+
+AF第8集 - 决战之日
+
+(搜寻时以铁塔为锚点)
+(同时注意剧中东西方向在现实中相反)
+![alt text](img/cla-af-8-kai1.jpg)
+
+![alt text](img/cla-af-8-s13.jpg)
+![alt text](img/cla-af-8-096.jpg)
+
+![alt text](img/cla-af-8-s15.jpg)
+![alt text](img/cla-af-8-098.jpg)
+
+![alt text](img/cla-af-8-s17.jpg)
+![alt text](img/cla-af-8-100.jpg)
+
+![alt text](img/cla-af-8-s18.jpg)
+![alt text](img/cla-af-8-102.jpg)
+
+![alt text](img/cla-af-8-s20.jpg)
+![alt text](img/cla-af-8-104.jpg)
+
+![alt text](img/cla-af-8-s21.jpg)
+![alt text](img/cla-af-8-107.jpg)
+
+![alt text](img/cla-af-8-s14.jpg)
+![alt text](img/cla-af-8-111.jpg)
+
+![alt text](img/cla-af-8-s23.jpg)
+![alt text](img/cla-af-8-114.jpg)
+![alt text](img/cla-af-8-115.jpg)
+
+![alt text](img/cla-af-8-s24.jpg)
+![alt text](img/cla-af-8-116.jpg)
+
+![alt text](img/cla-af-8-s25.jpg)
+![alt text](img/cla-af-8-117.jpg)
+
+![alt text](img/cla-af-8-s26.jpg)
+![alt text](img/cla-af-8-119.jpg)
+![alt text](img/cla-af-8-121.jpg)
+
+![alt text](img/cla-af-8-s27.jpg)
+![alt text](img/cla-af-8-123.jpg)
+
+![alt text](img/cla-af-8-s28.jpg)
+![alt text](img/cla-af-8-124.jpg)
+
+![alt text](img/cla-af-8-s29.jpg)
+![alt text](img/cla-af-8-125.jpg)
+
+![alt text](img/cla-af-8-s30.jpg)
+![alt text](img/cla-af-8-126.jpg)
+
+![alt text](img/cla-af-8-s31.jpg)
+![alt text](img/cla-af-8-129.jpg)
+
+晚上
+
+![alt text](img/cla-af-8-s34.jpg)
+![alt text](img/cla-af-8-134.jpg)
+
+![alt text](img/cla-af-8-s33.jpg)
+![alt text](img/cla-af-8-135.jpg)
+![alt text](img/cla-af-8-136.jpg)
+
+![alt text](img/cla-af-8-s35.jpg)
+![alt text](img/cla-af-8-147.jpg) (为了让月亮出现在有纪宁这一侧, 所以剧中东西方向相反)
+
+![alt text](img/cla-af-8-s37.jpg) (此处伸出来的也是CLANNAD AF DVD封面之一)
+![alt text](img/cla-af-8-156.jpg)
+![alt text](img/cla-af-8-156-1.jpg)
+
+![alt text](img/cla-af-8-s36.jpg)
+![alt text](img/cla-af-8-157.jpg)
+
+![alt text](img/cla-af-8-s38.jpg)
+![alt text](img/cla-af-8-160.jpg)
+
+AF第14集
+
+![alt text](img/cla-af-14-3-s.jpg)
+![alt text](img/cla-af-14-024.jpg)
+![alt text](img/cla-af-14-030.jpg)
+
+![alt text](img/cla-af-14-2-s.jpg)
+![alt text](img/cla-af-14-036.jpg)
+![alt text](img/cla-af-14-038.jpg)
+
+![alt text](img/cla-af-14-4-s.jpg)
+![alt text](img/cla-af-14-035.jpg)
 
 ## 朋也新家
 
@@ -447,7 +579,7 @@ AF第10集
 认准这三张， 分别为弯道上中下
 ![alt text](img/cla-af-10-30-s.jpg)
 ![alt text](img/cla-af-11-3-s.jpg)
-![alt text](img/cla-af-11-1-s.jpg) 
+![alt text](img/cla-af-11-1-s.jpg)
 
 AF第10集
 
