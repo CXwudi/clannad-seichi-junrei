@@ -1,4 +1,4 @@
-# Clannad After Story (Season 2) Episode 9 - Plot Highlight
+# Clannad After Story (Season 2) Episode 9 - 11 Plot Highlight
 
 ## 9. 坡道的途中
 
@@ -131,10 +131,7 @@ common 樱花坡道
 
 common 朋也新家
 
-新家旁边
-
-![alt text](img/cla-af-10-30-s.jpg)
-![alt text](img/cla-af-10-129.jpg)
+common 朋也新家附近
 
 ![alt text](img/cla-af-10-29-s.jpg)
 ![alt text](img/cla-af-10-131.jpg)
@@ -143,4 +140,91 @@ common 朋也新家
 ![alt text](<img/2025-04-13 19-03-37.jpg>)
 
 之后是方野和朋也开车去修电线杆路过的地方， 但因为お箸が重い在圣地巡礼时就已经面目全非而放弃, 详情见[お箸が重い的CLANNAD AF 第10集攻略](http://air.blue.coocan.jp/cla-af-10.html)
+
+## 11. 约定的创立者会
+
+- 朋也逐渐适应工作, 渚每天会来帮忙照顾
+  - 有一家人的样子
+
+- 朋也工作辛苦, 还需要隐藏右肩有伤的问题
+  - 渚也照顾着
+- 遇到了父亲的熟人
+  - 方野提到小镇会变化
+- 朋也尝试邀请渚周日约会, 但时间错开
+  - 秋生带着朋也去买玩具蜥蜴吓唬早苗, 演示如何夫妻和睦
+  - 吓唬效果过大, 但加深与古河家的感情
+- 渚邀请周日去学园祭, 朋也答应
+- 朋也在工作中成长, 也有自己的文书任务强项, 随之而来周末会加班
+  - 也告知了渚可能去不了学园祭, 渚虽然伤心但理解
+- 朋也右肩有伤被方野看出
+  - 方野理解也表示不要勉强, 两人互补
+- 原本能去学园祭, 却因为工作中的失误需要弥补而无法去成
+  - 工作的态度和弥补过错受到公司认可
+
+### Highlight 地点
+
+common 朋也新家附近
+
+修电线杆
+
+![alt text](img/cla-af-11-6-s.jpg)
+![alt text](img/cla-af-11-018.jpg)
+
+![alt text](img/cla-af-11-4-s.jpg)
+![alt text](img/cla-af-11-041.jpg)
+
+认识的人 (也是AF DVD第5卷表纸)
+
+![alt text](img/cla-af-11-9-s.jpg)
+![alt text](img/cla-af-11-046.jpg)
+
+![alt text](img/cla-af-11-10-s.jpg)
+![alt text](img/cla-af-11-047.jpg)
+
+![alt text](img/cla-af-11-11-s.jpg)
+![alt text](img/cla-af-11-048.jpg)
+
+下班回家路
+
+![alt text](img/cla-af-11-45-s.jpg)
+![alt text](img/cla-af-11-066.jpg)
+
+商店街
+
+![alt text](img/cla-af-11-24-s.jpg) (与风子线大家去逛街一样的背景)
+![alt text](img/cla-af-11-074.jpg)
+
+![alt text](img/cla-af-11-25-s.jpg)
+![alt text](img/cla-af-11-076.jpg)
+
+![alt text](img/cla-af-11-26-s.jpg)
+![alt text](img/cla-af-11-078.jpg)
+
+开车路过的
+
+![alt text](img/cla-af-11-28-s.jpg)
+![alt text](img/cla-af-11-144.jpg)
+
+![alt text](img/cla-af-11-29-s.jpg)
+![alt text](img/cla-af-11-152.jpg)
+
+加班需要的
+
+![alt text](img/cla-af-11-30-s.jpg)
+![alt text](img/cla-af-11-156.jpg)
+
+![alt text](img/cla-af-11-31-s.jpg)
+![alt text](img/cla-af-11-158.jpg)
+
+![alt text](img/cla-af-11-32-s.jpg)
+![alt text](img/cla-af-11-159.jpg)
+
+![alt text](img/cla-af-11-36-s.jpg)
+![alt text](img/cla-af-11-167.jpg)
+
+![alt text](img/cla-af-11-38-s.jpg)
+![alt text](img/cla-af-11-170.jpg)
+
+![alt text](img/cla-af-11-40-s.jpg)
+![alt text](img/cla-af-11-171.jpg)
 

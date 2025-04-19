@@ -226,6 +226,9 @@ AF第5集
 ![alt text](img/cla-af-5-057.jpg)
 ![alt text](img/cla-af-5-064.jpg)
 
+AF第11集
+
+![alt text](img/cla-af-11-182.jpg)
 
 ## 春原宿舍
 
@@ -307,7 +310,7 @@ AF第10集
 ![alt text](<img/2025-04-13 19-03-48.jpg>)
 ![alt text](<img/2025-04-13 19-04-02.jpg>)
 
-## 电车站
+## 电车站 (羽村駅)
 
 第12集
 
@@ -363,6 +366,12 @@ AF第2集
 ![alt text](img/claf-1-p-s11.jpg)
 ![alt text](img/cla-af-2-125.jpg)
 
+AF第11集
+
+![alt text](img/cla-af-11-23-s.jpg)
+![alt text](img/cla-af-11-072.jpg)
+
+
 ## 风子十字路口
 
 上面的演碟本店就是最大的特征, 即使十字路口的其他建筑都变了
@@ -400,6 +409,8 @@ AF第3集
 
 ## 商店街 (TODO)
 
+
+
 ## 朋也新家
 
 吹田市千里山, 依然我们没法公开地址, 但是
@@ -424,3 +435,29 @@ AF第10集
 
 ![alt text](img/cla-af-10-31-s.jpg)
 ![alt text](img/cla-af-10-180.jpg)
+
+
+## 朋也新家附近 (TODO: 未找到定位)
+
+### Pattern 1 - 弯道 - 吹田市道山手町14号線
+
+AF第10集
+
+![alt text](img/cla-af-10-30-s.jpg)
+![alt text](img/cla-af-10-129.jpg)
+
+AF第11集
+
+![alt text](img/cla-af-11-2-s.jpg)
+![alt text](img/cla-af-11-032.jpg)
+
+### Pattern 2 - 灯下路口
+
+AF第11集
+
+![alt text](img/cla-af-11-1-s-1.jpg)
+![alt text](img/cla-af-11-013.jpg)
+
+![alt text](img/cla-af-11-3-s.jpg)(在弯道下方)
+![alt text](img/cla-af-11-038.jpg)
+![alt text](img/cla-af-11-034.jpg)
