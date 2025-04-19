@@ -133,11 +133,6 @@ common 朋也新家
 
 common 朋也新家附近
 
-![alt text](img/cla-af-10-29-s.jpg)
-![alt text](img/cla-af-10-131.jpg)
-
-![alt text](img/cla-af-10-32-s.jpg)
-![alt text](<img/2025-04-13 19-03-37.jpg>)
 
 之后是方野和朋也开车去修电线杆路过的地方， 但因为お箸が重い在圣地巡礼时就已经面目全非而放弃, 详情见[お箸が重い的CLANNAD AF 第10集攻略](http://air.blue.coocan.jp/cla-af-10.html)
 
@@ -227,4 +222,8 @@ common 朋也新家附近
 
 ![alt text](img/cla-af-11-40-s.jpg)
 ![alt text](img/cla-af-11-171.jpg)
+
+## 9-11集总结
+
+主要交代大家毕业后, 渚留级, 朋也毕业找工作, 搬出去
 

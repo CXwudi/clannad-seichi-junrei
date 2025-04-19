@@ -407,8 +407,11 @@ AF第3集
 ![alt text](img/cla-af-3-017.jpg)
 ![alt text](img/cla-af-3-019.jpg)
 
-## 商店街 (TODO)
+## 喷泉公寓 (TODO)
 
+峡山池公园
+
+## 商店街 (TODO)
 
 
 ## 朋也新家
@@ -437,9 +440,14 @@ AF第10集
 ![alt text](img/cla-af-10-180.jpg)
 
 
-## 朋也新家附近 (TODO: 未找到定位)
+## 朋也新家附近
 
 ### Pattern 1 - 弯道 - 吹田市道山手町14号線
+
+认准这三张， 分别为弯道上中下
+![alt text](img/cla-af-10-30-s.jpg)
+![alt text](img/cla-af-11-3-s.jpg)
+![alt text](img/cla-af-11-1-s.jpg) 
 
 AF第10集
 
@@ -451,13 +459,54 @@ AF第11集
 ![alt text](img/cla-af-11-2-s.jpg)
 ![alt text](img/cla-af-11-032.jpg)
 
-### Pattern 2 - 灯下路口
 
-AF第11集
-
-![alt text](img/cla-af-11-1-s-1.jpg)
+![alt text](img/cla-af-11-1-s.jpg) 
 ![alt text](img/cla-af-11-013.jpg)
 
-![alt text](img/cla-af-11-3-s.jpg)(在弯道下方)
+![alt text](img/cla-af-11-3-s.jpg)
 ![alt text](img/cla-af-11-038.jpg)
 ![alt text](img/cla-af-11-034.jpg)
+ 
+AF第12集
+
+![alt text](img/cla-af-12-12-s.jpg) (从弯道下方开始)
+![alt text](img/cla-af-12-011.jpg)
+
+![alt text](img/cla-af-12-13-s.jpg)
+![alt text](img/cla-af-12-013.jpg)
+
+![alt text](img/cla-af-12-14-s.jpg)
+![alt text](img/cla-af-12-016.jpg)
+
+![alt text](img/cla-af-12-15-s.jpg)
+![alt text](img/cla-af-12-018.jpg)
+
+![alt text](img/cla-af-12-16-s.jpg)
+![alt text](img/cla-af-12-019.jpg)
+
+![alt text](img/cla-af-12-17-s.jpg)
+![alt text](img/cla-af-12-025.jpg)
+
+### Pattern 2 - 一段上下坡
+
+认准这张
+
+![alt text](img/cla-af-10-29-s.jpg)
+
+AF第10集
+
+![alt text](img/cla-af-10-131.jpg)
+
+![alt text](img/cla-af-10-32-s.jpg)
+![alt text](<img/2025-04-13 19-03-37.jpg>)
+
+AF第12集
+
+![alt text](img/cla-af-12-090.jpg)
+
+![alt text](img/cla-af-12-2-s.jpg)
+![alt text](img/cla-af-12-091.jpg)
+
+![alt text](img/cla-af-11-43-s.jpg)
+![alt text](img/cla-af-12-092.jpg)
+
