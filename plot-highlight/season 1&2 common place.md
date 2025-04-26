@@ -256,6 +256,10 @@ AF第5集
 
 ![alt text](img/cla-af-5-006.jpg)
 
+## さくら板 (TODO)
+
+
+
 ## 古河渚家与公园
 
 所有古河渚面包店图认准这个图
@@ -424,7 +428,7 @@ AF第3集
 ![alt text](img/cla-af-3-017.jpg)
 ![alt text](img/cla-af-3-019.jpg)
 
-## 喷泉公寓 (TODO)
+## 喷泉公园 (TODO)
 
 峡山池公园
 
@@ -454,6 +458,8 @@ AF第13集
 ![alt text](<img/2025-04-19 01-01-10.jpg>)
 
 ## 河道 - 八幡市木津川
+
+一旦涨水就不能下去
 
 AF第8集 - 决战之日
 
@@ -546,6 +552,26 @@ AF第14集
 ![alt text](img/cla-af-14-4-s.jpg)
 ![alt text](img/cla-af-14-035.jpg)
 
+AF第15集
+
+![alt text](img/cla-af-15-s-9.jpg)
+![alt text](img/cla-af-15-020.jpg)
+
+![alt text](img/cla-af-15-s-8.jpg)
+![alt text](img/cla-af-15-060.jpg)
+
+![alt text](img/cla-af-15-s-11.jpg)
+![alt text](img/cla-af-15-061.jpg)
+
+![alt text](img/cla-af-15-s-10.jpg)
+![alt text](img/cla-af-15-062.jpg)
+
+![alt text](img/cla-af-15-s-15.jpg)
+![alt text](img/cla-af-15-064.jpg)
+
+![alt text](img/cla-af-15-s-16.jpg)
+![alt text](img/cla-af-15-074.jpg)
+
 ## 朋也新家
 
 吹田市千里山, 依然我们没法公开地址, 但是
@@ -559,6 +585,8 @@ AF第14集
 
 ![alt text](img/cla-af-10-47-s.jpg)
 ![alt text](img/cla-af-10-111.jpg)
+![alt text](<img/2025-04-25 21-41-30.jpg>)
+
 
 AF第10集
 
@@ -570,6 +598,10 @@ AF第10集
 
 ![alt text](img/cla-af-10-31-s.jpg)
 ![alt text](img/cla-af-10-180.jpg)
+
+AF第16集
+
+![alt text](img/cla-af-16-023.jpg)
 
 
 ## 朋也新家附近
@@ -619,11 +651,28 @@ AF第12集
 ![alt text](img/cla-af-12-17-s.jpg)
 ![alt text](img/cla-af-12-025.jpg)
 
+AF第15集
+
+![alt text](img/cla-af-15-s-4.jpg)
+![alt text](img/cla-af-15-022.jpg)
+
+![alt text](img/cla-af-15-s-3.jpg)
+![alt text](img/cla-af-15-026.jpg)
+
+(有此地地点其他方位的, 但可惜已经面目全非)
+
+比如
+![alt text](img/cla-af-15-s-7.jpg)
+![alt text](img/cla-af-15-025.jpg)
+现在已经是
+![alt text](img/image4.png)
+
 ### Pattern 2 - 一段上下坡
 
 认准这张
 
 ![alt text](img/cla-af-10-29-s.jpg)
+请注意图中左边的石堆已经变成房子了
 
 AF第10集
 
@@ -641,4 +690,9 @@ AF第12集
 
 ![alt text](img/cla-af-11-43-s.jpg)
 ![alt text](img/cla-af-12-092.jpg)
+
+AF第16集
+
+![alt text](img/cla-af-11-43-s.jpg)
+![alt text](img/cla-af-16-020.jpg)
 
