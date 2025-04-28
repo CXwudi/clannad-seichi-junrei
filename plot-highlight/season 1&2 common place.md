@@ -5,6 +5,11 @@
 
 ![alt text](img/cla-1-13-s0.jpg)
 
+请注意这个房子早已不复存在, 只有前面的电线杆, 和背景的4楼房子还match
+
+![alt text](img/image6.png)
+
+
 第1集
 
 ![alt text](img/clan-1-73.jpg)
@@ -16,6 +21,10 @@
 第19集
 
 ![alt text](img/cla19-0050.jpg)
+
+AF第19集
+
+![alt text](img/cla-af-19-107.jpg)
 
 ## 樱花道
 
@@ -260,7 +269,7 @@ AF第5集
 
 
 
-## 古河渚家与公园
+## 古河渚家与公园 (かめのこ児童公園)
 
 所有古河渚面包店图认准这个图
 来自[kaze的不務正業ACG. 博客](https://aurakaze.blog/clannad-jyunrei3/#toc4)
@@ -331,6 +340,18 @@ AF第14集
 
 ![alt text](img/cla-af-14-042.jpg) (大概率拍不到这个角度)
 
+AF第19集
+
+![alt text](img/cla-af-19-001.jpg)
+
+![alt text](img/cla-af-19-6-s.jpg)
+![alt text](img/cla-af-19-002.jpg)
+
+![alt text](img/cla-af-19-5-s.jpg)
+![alt text](img/cla-af-19-016.jpg)
+
+![alt text](img/cla-af-19-039.jpg)
+
 ## 电车站 (羽村駅)
 
 第12集
@@ -391,6 +412,23 @@ AF第11集
 
 ![alt text](img/cla-af-11-23-s.jpg)
 ![alt text](img/cla-af-11-072.jpg)
+
+AF第17集
+
+![alt text](img/cla-af-17-10-s.jpg)
+![alt text](img/cla-af-17-023.jpg)
+
+![alt text](img/cla-af-ed-0-4s.jpg)
+![alt text](img/cla-af-17-024.jpg)
+
+
+![alt text](img/cla-af-17-9-s.jpg)
+![alt text](img/cla-af-17-025.jpg)
+![alt text](img/cla-af-17-026.jpg)
+
+![alt text](img/cla-af-17-11-s.jpg)
+![alt text](img/cla-af-17-027.jpg)
+![alt text](img/cla-af-17-028.jpg)
 
 
 ## 风子十字路口
@@ -603,6 +641,11 @@ AF第16集
 
 ![alt text](img/cla-af-16-023.jpg)
 
+AF第17集
+
+![alt text](img/cla-af-17-019.jpg)
+![alt text](img/cla-af-17-7-s.jpg)
+![alt text](img/cla-af-17-020.jpg)
 
 ## 朋也新家附近
 
@@ -696,3 +739,7 @@ AF第16集
 ![alt text](img/cla-af-11-43-s.jpg)
 ![alt text](img/cla-af-16-020.jpg)
 
+AF第17集
+
+![alt text](img/cla-af-17-8-s.jpg)
+![alt text](img/cla-af-17-080.jpg)
