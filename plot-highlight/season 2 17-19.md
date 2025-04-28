@@ -285,6 +285,11 @@ common 古河渚家与公园
 ![alt text](img/cla-af-19-2-s1.jpg)
 ![alt text](img/cla-af-19-061.jpg)
 
+![alt text](cla-af-19-7-s.jpg)（很可惜这栋楼已经拆了）
+![alt text](cla-af-19-052.jpg)
+
+
+
 买菜路过的时候
 
 ![alt text](<img/2025-04-26 23-25-59.jpg>)

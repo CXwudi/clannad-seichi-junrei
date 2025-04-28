@@ -647,6 +647,74 @@ AF第17集
 ![alt text](img/cla-af-17-7-s.jpg)
 ![alt text](img/cla-af-17-020.jpg)
 
+AF第20集
+
+![alt text](img/cla-af-20-9-s.jpg)
+![alt text](img/cla-af-20-133.jpg)
+
+![alt text](img/cla-af-20-10-s.jpg)
+![alt text](img/cla-af-20-147.jpg)
+
+![alt text](<img/2025-04-27 21-06-40.jpg>) （注意停车场现在已经盖楼了
+
+AF第21集（病危的汐）
+
+![alt text](img/cla-af-21-10-s.jpg)
+![alt text](img/cla-af-21-124.jpg)
+
+![alt text](img/cla-af-21-11-s.jpg)
+![alt text](img/cla-af-21-125.jpg)
+
+![alt text](img/cla-af-21-12-s.jpg)
+![alt text](img/cla-af-21-126.jpg)
+
+![alt text](img/cla-af-21-14-s.jpg)
+![alt text](img/cla-af-21-128.jpg)
+
+![alt text](img/cla-af-21-15-s.jpg)
+![alt text](img/cla-af-21-129.jpg)
+
+![alt text](img/cla-af-21-16-s.jpg)
+![alt text](img/cla-af-21-132.jpg)
+![alt text](img/image7.png) （对应这栋老房子，目前依然在）
+
+![alt text](img/cla-af-21-17-s.jpg)
+![alt text](img/cla-af-21-136.jpg)
+![alt text](img/cla-af-21-135.jpg)
+
+![alt text](img/cla-af-21-18-s0.jpg)
+![alt text](img/cla-af-21-137.jpg)
+
+![alt text](img/cla-af-21-19-s0.jpg)
+![alt text](img/cla-af-21-141.jpg)
+
+![alt text](img/cla-af-21-20-s.jpg)
+![alt text](img/cla-af-21-147.jpg)
+
+![alt text](img/cla-af-21-25-s.jpg)
+![alt text](img/cla-af-21-148.jpg)
+
+![alt text](img/cla-af-21-18-s0-1.jpg)
+![alt text](img/cla-af-21-152.jpg)
+![alt text](img/cla-af-21-151.jpg)
+
+![alt text](img/cla-af-21-24-s.jpg)
+![alt text](img/cla-af-21-155.jpg)
+![alt text](img/cla-af-21-154.jpg)
+
+![alt text](img/cla-af-21-23-s.jpg)
+![alt text](img/cla-af-21-156.jpg)
+
+![alt text](img/cla-af-21-21-s.jpg)
+![alt text](img/cla-af-21-159.jpg)
+
+![alt text](img/cla-af-21-22-s.jpg)
+![alt text](img/cla-af-21-166.jpg)
+
+![alt text](img/cla-af-21-26-s.jpg)
+![alt text](img/cla-af-21-164.jpg)
+![alt text](img/cla-af-21-168.jpg)
+
 ## 朋也新家附近
 
 ### Pattern 1 - 弯道 - 吹田市道山手町14号線
@@ -665,7 +733,6 @@ AF第11集
 
 ![alt text](img/cla-af-11-2-s.jpg)
 ![alt text](img/cla-af-11-032.jpg)
-
 
 ![alt text](img/cla-af-11-1-s.jpg) 
 ![alt text](img/cla-af-11-013.jpg)
@@ -709,6 +776,15 @@ AF第15集
 ![alt text](img/cla-af-15-025.jpg)
 现在已经是
 ![alt text](img/image4.png)
+
+AF第20集
+
+![alt text](img/cla-af-20-6-s.jpg)
+![alt text](img/cla-af-20-061.jpg)
+
+![alt text](img/cla-af-20-5-s.jpg)
+![alt text](img/cla-af-20-062.jpg)
+
 
 ### Pattern 2 - 一段上下坡
 
