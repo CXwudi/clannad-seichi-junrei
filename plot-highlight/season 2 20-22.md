@@ -143,4 +143,74 @@
 
 ### Highlight 地点
 
-TODO
+common 樱花坡道
+
+common 峡山池公园
+
+陸奥横浜駅
+
+![alt text](img/cla-af-22-67-s.jpg)
+![alt text](img/cla-af-22-266.jpg)
+
+![alt text](img/cla-af-22-28-s.jpg)
+![alt text](img/cla-af-22-125.jpg)
+
+其他
+
+![alt text](img/cla-af-19-2-s0.jpg)(与AF 17集一样)
+![alt text](img/cla-af-22-106.jpg)
+
+还有很多TODO
+
+最后一幕的风子
+
+刚出来
+
+![alt text](img/cla-af-22-42-s.jpg)
+![alt text](img/cla-af-22-169.jpg)
+
+![alt text](img/cla-af-22-43-s0.jpg)
+![alt text](img/cla-af-22-170.jpg)
+
+![alt text](img/cla-af-22-44-s0.jpg)
+![alt text](img/cla-af-22-171.jpg)
+
+![alt text](img/cla-af-22-45-s.jpg)
+![alt text](img/cla-af-22-172.jpg)
+
+![alt text](img/cla-af-22-46-s.jpg)
+![alt text](img/cla-af-22-174.jpg)
+
+![alt text](img/cla-af-22-47-s.jpg)
+![alt text](img/cla-af-22-177.jpg)
+
+![alt text](img/cla-af-22-49-s.jpg)
+![alt text](img/cla-af-22-183.jpg)
+
+![alt text](img/cla-af-22-50-s.jpg)
+![alt text](img/cla-af-22-184.jpg)
+
+已经走了一段
+
+![alt text](img/cla-af-22-51-s.jpg) (与20集汐独自散步一样)
+![alt text](img/cla-af-22-185.jpg)
+
+![alt text](img/cla-af-22-52-s.jpg)
+![alt text](img/cla-af-22-191.jpg)
+
+
+六道山公園
+
+![alt text](img/cla-af-22-53-s.jpg)
+![alt text](img/cla-af-22-193.jpg)
+
+お箸が重い[记录了其他场景](http://air.blue.coocan.jp/cla-af-22.html), 但个人认为牵强因此没记
+
+最后OP的树
+
+![alt text](img/cla-af-22-3-s.jpg)
+![alt text](img/cla-af-22-230.jpg)
+
+(很可惜, BV1km4y1b7oV认为这颗树已经没了)
+![alt text](img/image8.png)
+但其实周边不少树都有这种稍微倾斜结构

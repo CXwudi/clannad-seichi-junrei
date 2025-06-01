@@ -216,6 +216,29 @@ AF第13集
 ![alt text](img/cla-af-13-4-s.jpg)
 ![alt text](img/cla-af-13-130.jpg)
 
+AF第22集
+
+![alt text](img/cla-af-22-4-s.jpg)
+![alt text](img/cla-af-22-004.jpg)
+
+![alt text](img/cla-af-22-7-s.jpg)
+![alt text](img/cla-af-22-031.jpg)
+
+![alt text](img/cla-af-22-5-s.jpg)
+![alt text](img/cla-af-22-039.jpg)
+![alt text](img/cla-af-22-044.jpg)
+
+![alt text](img/cla-af-22-6-s.jpg)
+![alt text](img/cla-af-22-046.jpg)
+
+![alt text](img/cla-af-22-19-s.jpg)
+![alt text](img/cla-af-22-251.jpg)
+
+![alt text](img/cla-af-22-17-s.jpg)
+![alt text](img/cla-af-22-259.jpg)
+
+
+
 ## 学校门口
 
 认准这一张
@@ -352,6 +375,12 @@ AF第19集
 
 ![alt text](img/cla-af-19-039.jpg)
 
+AF第22集
+
+![alt text](img/cla-af-22-26-s.jpg)
+![alt text](img/cla-af-22-116.jpg)
+![alt text](img/cla-af-22-118.jpg)
+
 ## 电车站 (羽村駅)
 
 第12集
@@ -470,6 +499,15 @@ AF第3集
 
 峡山池公园
 
+
+AF第22集
+
+![alt text](img/cla-af-22-8-s.jpg)
+![alt text](img/cla-af-22-047.jpg)
+
+![alt text](img/cla-af-22-9-s.jpg)
+![alt text](img/cla-af-22-048.jpg)
+
 ## 商店街 (TODO)
 
 ## どんぐり山児童公園
@@ -494,6 +532,12 @@ AF第13集
 
 ![alt text](<img/2025-04-19 00-59-34.jpg>)
 ![alt text](<img/2025-04-19 01-01-10.jpg>)
+
+AF第22集
+
+![alt text](img/cla-nag-koen-9s.jpg)
+![alt text](img/cla-af-22-110.jpg)
+![alt text](img/cla-af-22-109.jpg)
 
 ## 河道 - 八幡市木津川
 
