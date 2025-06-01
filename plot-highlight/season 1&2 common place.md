@@ -30,7 +30,7 @@ AF第19集
 
 ![alt text](img/CIMG2349.jpg)
 
-第一集
+第1集
 
 ![alt text](img/clan-1-8-s.jpg)
 ![alt text](img/clan-1-8.jpg)
@@ -40,9 +40,14 @@ AF第19集
 
 ![alt text](img/clan-1-11-s.jpg)
 ![alt text](img/clan-1-11.jpg)
+![alt text](<img/Clannad 2007 EP01 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_00.35.266.png>)
 
 ![alt text](img/clan-1-20-s.jpg)
 ![alt text](img/clan-1-20.jpg)
+
+第2集
+
+![alt text](img/clan-2-85.jpg)
 
 第8集
 

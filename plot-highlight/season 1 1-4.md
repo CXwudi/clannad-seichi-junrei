@@ -83,7 +83,20 @@ common 朋也家
 早上和杏撞上
 
 ![alt text](img/cla-2-10-s0.jpg)
+![alt text](img/clan-2-7.jpg)
+![alt text](img/clan-2-18.jpg)
+
+![alt text](img/cla-2-10-s0.jpg)
 ![alt text](img/clan-2-13.jpg)
+
+![alt text](img/cla-2-8-s0.jpg)
+![alt text](img/clan-2-14.jpg)
+
+![alt text](img/clan-2-13a-s.jpg)
+![alt text](img/clan-2-13a.jpg)
+
+![alt text](img/clan-2-16-s.jpg)
+![alt text](img/clan-2-16.jpg)
 
 朋也出逃
 
