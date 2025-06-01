@@ -44,29 +44,15 @@
 ![alt text](img/cla-pb-4-s0.jpg)
 ![alt text](img/clan-1-7.jpg)
 
-放学后的无所事事
+common 樱花坡道
 
-![alt text](img/cla-1-45-s.jpg)
-![alt text](img/cla-1-45.jpg)
+common 学校门口
 
-![alt text](img/cla-1-44-s1.jpg)
-![alt text](img/cla-1-43.jpg)
+common 商店街
 
-放学时渚介绍自己家 (さくら板)
+common さくら板
 
-![alt text](img/cla-pre-closs-0.jpg)
-![alt text](img/cla-pb-0.jpg)
-
-![alt text](img/cla-pre-closs-13.jpg)
-![alt text](img/cla-pb-1.jpg)
-
-从渚家出来
-
-![alt text](img/cla-1-15-s0.jpg)
-![alt text](img/clan-1-70.jpg)
-
-![alt text](img/cla-1-14-s0.jpg)
-![alt text](img/clan-1-71.jpg)
+common 朋也家
 
 从家里逃出去
 

@@ -1,6 +1,7 @@
-## Clannad 常见地点
+# Clannad 常见地点
 
 ## 朋也家
+
 所有朋也家认准这张
 
 ![alt text](img/cla-1-13-s0.jpg)
@@ -8,7 +9,6 @@
 请注意这个房子早已不复存在, 只有前面的电线杆, 和背景的4楼房子还match
 
 ![alt text](img/image6.png)
-
 
 第1集
 
@@ -26,7 +26,7 @@ AF第19集
 
 ![alt text](img/cla-af-19-107.jpg)
 
-## 樱花道
+## 樱花坡道
 
 ![alt text](img/CIMG2349.jpg)
 
@@ -237,8 +237,6 @@ AF第22集
 ![alt text](img/cla-af-22-17-s.jpg)
 ![alt text](img/cla-af-22-259.jpg)
 
-
-
 ## 学校门口
 
 认准这一张
@@ -280,7 +278,6 @@ AF第11集
 
 ![alt text](img/cla17-0105.jpg)
 
-
 AF第5集
 
 ![alt text](img/cla-af-5-1-s.jpg)
@@ -290,7 +287,19 @@ AF第5集
 
 ## さくら板 (TODO)
 
+第1集
 
+![alt text](img/cla-pre-closs-0.jpg)
+![alt text](img/cla-pb-0.jpg)
+
+![alt text](img/cla-pre-closs-13.jpg)
+![alt text](img/cla-pb-1.jpg)
+
+![alt text](img/cla-1-15-s0.jpg)
+![alt text](img/clan-1-70.jpg)
+
+![alt text](img/cla-1-14-s0.jpg)
+![alt text](img/clan-1-71.jpg)
 
 ## 古河渚家与公园 (かめのこ児童公園)
 
@@ -298,6 +307,10 @@ AF第5集
 来自[kaze的不務正業ACG. 博客](https://aurakaze.blog/clannad-jyunrei3/#toc4)
 
 ![alt text](img/Ckypwjk.webp)
+
+第1集
+
+![alt text](img/clan-1-83.jpg)
 
 第5集
 
@@ -382,6 +395,11 @@ AF第22集
 ![alt text](img/cla-af-22-118.jpg)
 
 ## 电车站 (羽村駅)
+
+第1集
+
+![alt text](img/cla-1-44-s1.jpg)
+![alt text](img/cla-1-43.jpg)
 
 第12集
 
@@ -495,9 +513,7 @@ AF第3集
 ![alt text](img/cla-af-3-017.jpg)
 ![alt text](img/cla-af-3-019.jpg)
 
-## 喷泉公园 (TODO)
-
-峡山池公园
+## 峡山池喷泉公园 (TODO)
 
 
 AF第22集
@@ -508,7 +524,15 @@ AF第22集
 ![alt text](img/cla-af-22-9-s.jpg)
 ![alt text](img/cla-af-22-048.jpg)
 
-## 商店街 (TODO)
+## 早稻田商店街
+
+![alt text](img/cla-1-45-s.jpg)
+![alt text](img/cla-1-45.jpg)
+
+![alt text](img/cla-1-46-s.jpg)
+![alt text](img/cla-1-44.jpg)
+
+
 
 ## どんぐり山児童公園
 
