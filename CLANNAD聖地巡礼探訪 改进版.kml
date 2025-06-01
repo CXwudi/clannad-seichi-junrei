@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>New plan CLANNAD聖地巡礼探訪</name>
+    <description><![CDATA[This is a copy adapted from http://air.blue.coocan.jp/index.html<br><br>Original Description:<br><br>足で捜した情報をマーキングしました。<br>旅行時の参考にしていただけると幸いです。<br><br>HP：お箸が重い<br>http://air.blue.coocan.jp/index.html]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-960-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-960-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-960-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-960-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-960-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-960-F4EB37-normal">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-960-F4EB37-highlight">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-960-F4EB37">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-960-F4EB37-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-960-F4EB37-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>JAPAN</name>
+      <Placemark>
+        <name>【1】古河ベイカーズ決戦球場</name>
+        <description><![CDATA[【AFTER STORY 01話、AFTER STORY DVD初回限定版 1巻ジャケット表紙】<br>古河ベイカーズが街の意地をかけ決戦！<br>蛇足：智代が電線に球を当たHRは、鉄塔の配置的にレフトオーバー150m弾規模]]></description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.373116,35.765092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【2】アフターEDの電柱と夕焼けの鉄塔</name>
+        <description><![CDATA[【AFTER STORY ＥＤ】<br>ED聖地の２カット目]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.372462,35.764465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【3】古河ベイカーズ決戦の朝</name>
+        <description><![CDATA[【AFTER STORY 01話】<br>決戦当日の朝の風景<br>蛇足：右手の背の低い建物はだんご屋です。<br>あっさりかつ香ばしい味でとてもおいしいので、ぜひ食べてみてください。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.371067,35.763421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【4】この街は嫌いだ・・・　朋也モノローグ</name>
+        <description><![CDATA[【CLANNAD 01話、AFTER STORY 17話】<br>物語の始まりを象徴するアイコン的シーン<br>蛇足：【3】は【４】を別アングルから見たもの。<br>【3】はAfter1話、決戦当日という2つの意味ではじまりを表現したいシーンです。となると、【4】がうってつけなのですが、【4】は後々を考えると使えない。そこで、アングルを変えることで別カット化し、なおかつ始まりを告げるカットにしたということでしょう。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.370992,35.762907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【5】朋也と渚、一緒に帰る／智代と別れる道</name>
+        <description><![CDATA[【CLANNAD 17、19話】<br>17話：春原の策略で不良の溜まり場に連れてこられる朋也と智代。春原と別れた後の帰り道。<br>19話：家庭訪問から逃げる朋也、渚に見つかり同行されることに。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.370391,35.762063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【6】智代との会話</name>
+        <description><![CDATA[【CLANNAD 17話】<br>智代と別れる道の1カット前]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.369555,35.762167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【7】走る朋也</name>
+        <description><![CDATA[【CLANNAD 02話】<br>渚のためにだんご大家族を自作する朋也。直幸に手伝いたいと言われるが、相変わらず他人行儀な態度に激怒し、家を飛び出す。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.369565,35.761706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【8】カレンダー杏</name>
+        <description>【2009年京アニ製カレンダー 7,8月】</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.369088,35.76198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【9】智代との会話（鉄塔のみ）</name>
+        <description><![CDATA[【CLANNAD 17話】<br>春原の策略で不良の溜まり場に案内される朋也と智代。そこから離れさせてくれた朋也に礼を言う智代に、自分も居たくなかっただけと話す朋也。<br>※モデルは鉄塔のみです。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.367827,35.762533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【10】椋とデートの帰り</name>
+        <description><![CDATA[【CLANNAD 18話】<br>占いは、外れれば未来にたくさんの可能性があると思えると、椋は持論を語る。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.368825,35.760269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【11】看板撤去！残念</name>
+        <description><![CDATA[【CLANNAD 01話】<br>「友達とダベり」のモノローグのカット<br>残念ながら撤去されて、今はもうありません。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.365837,35.763982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【参】智代との会話</name>
+        <description><![CDATA[【CLANNAD 17話】<br>春原の策略で不良の溜まり場に案内される朋也と智代。智代を気遣ってその先の喫茶店に入る機転を利かせた朋也に礼を言う智代。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.369774,35.759634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【12】ことみ神社</name>
+        <description><![CDATA[【CLANNAD 11話】<br>日曜日、ことみと図書室で過ごす朋也。<br>夕方ことみと別れる神社。<br>蛇足：阿豆佐味天神社前の信号から神社までの道は桜並木になっています。<br>桜の咲く時期に訪れると、それはもう素晴らしい景色で楽しませてくれます。<br>学校までの坂道の桜並木は八重桜なので、ソメイヨシノを見るなら、ここが一番でしょう。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.364566,35.766063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【13】アフタージャケット</name>
+        <description><![CDATA[【AFTER STORY DVD初回限定版 2巻 ジャケット表紙】<br>蛇足：秋祭りは行われませんが、元旦から15日くらいまでお守りなどの販売があります。作品に唯一登場する神社ですので、買ってみてはいかがでしょうか。]]></description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.364458,35.765928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【14】朋也モノローグ</name>
+        <description><![CDATA[【CLANNAD 01話】<br>「帰りたくも無い家に帰る」のモノローグのカット]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.364313,35.765545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【15】朋也、芳野と車で移動中</name>
+        <description><![CDATA[【AFTER STORY 12話】<br>今日の仕事は手際が良かったと褒められる朋也]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.363214,35.763399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【16】ジャケット表紙／風子病院へ行く</name>
+        <description><![CDATA[【CLANNAD DVD初回限定版 3巻 ジャケット表紙／AFTER STORY 最終回】<br>表紙：長らく工事していましたが、道が開通し、「止まれ」の文字は無くなりました。<br>最終回：子供っぽさ排除の努力を早々に諦め、病院ではなくファミレスに行こうとする風子。<br>蛇足：その進行方向には本当にファミレス（サイゼリヤ）があります。ぜひハンバーグを食べましょう。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.361122,35.760826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【17】風子、エッチです！</name>
+        <description><![CDATA[【AFTER STORY 最終話】<br>子供扱いされ、へそを曲げる風子。自分を名前で呼ぶことが、子供に思われる原因ではないかという公子の言葉を受け、違う呼び方を試してみる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.361122,35.760696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【18】風子、公園で遊ぶ</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 19話】<br>汐と朋也、買い物帰りに通りがかった公園で公子に呼び止められる。するとそこでは風子が遊んでいた。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.360837,35.759307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【22】アフターＥＤ</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ ＥＤ】<br>ＥＤ聖地の9カット目]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.362186,35.755572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【23】志麻家</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 06話】<br>サキとユキが志摩家へ遊びにいきたいと、志麻を案内させる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.361277,35.763521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【24】親との確執</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 01話】<br>草野球のメンバー集めが終わり、解散する一同。<br>その帰り道、直幸にも観戦してもらおうと提案する渚に、また今度にしようと告げる朋也。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.361634,35.763654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【25】志麻、動揺／ことみとお帰り／ジャケット</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 06話／ＣＬＡＮＮＡＤ 12話／<br>CLANNAD DVD初回限定版 8巻 ジャケット表紙】<br>06話：志麻家へ向かう道中、家がどこだったか思い出せないと告げる志麻。<br>１２話：集団デートの帰り道。渚、杏、椋と、ことみ、朋也が別れる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3615,35.763784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【26】朋也、仕事ミス</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 11話】<br>ミスを直してくるという芳野の理由を尋ねる電話を受ける朋也。それが自分のミスであることに気付き、現場に急行する。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.361811,35.766603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【27】現場に疾走！</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 11話】<br>ミスを直してくるという芳野の理由を尋ねる電話を受ける朋也。それが自分のミスであることに気付き、現場に急行する。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.360387,35.768363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【28】芳野、朋也のミスをカバー／結果、創立者祭に遅れ・・・</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 11話】<br>自分のミスをカバーしてくれている芳野に、責任と取らせて欲しいと願い出る朋也。<br>結局、作業が夕方まで掛かってしまい創立者祭には出られず。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.360612,35.768183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【30】大雪の中、出産</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 16話】<br>出産当日の街の様子。<br>街の機能が病に落ちたかのように麻痺したと語られる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.34667,35.771203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【31】アフターＥＤ</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ ＥＤ】<br>ＥＤ聖地の7カット目]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.347013,35.771316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【32】風子と商店街へ</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ 08話】<br>公子の結婚式のために、アクセサリーを買いに行く。<br>が、買ったのはおたんじょう会セット。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.345184,35.770037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【33】アフタージャケット／芳野、伊吹先生との別れ・再開</name>
+        <description><![CDATA[【AFTER STORY DVD初回限定版 4巻 ジャケット表紙／AFTER STORY 12話】<br>残念ながらバス停はありません。]]></description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.34895,35.77593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【34】風子、噴水を見る／志麻、悩む</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ 08話／ＡＦＴＥＲ ＳＴＯＲＹ 06話】<br>08話：おたんじょう会セットを買い、一休み。朋也が先に行くと言って歩き出すと、噴水が上がる。<br>06話：自分が志麻ではないことを思い出す志麻。そしてもう一度自分の目的を再確認する。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.348478,35.776287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【35】カレンダー智代</name>
+        <description>【2009年京アニ製カレンダー 3,4月】</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.349127,35.776576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【36】杏、朋也に衝突</name>
+        <description><![CDATA[【CLANNAD 10話】<br>渚と一緒に登校する朋也に、杏がバイクで2度目の衝突。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.349856,35.7762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【37】有紀寧仲間の溜まり場</name>
+        <description><![CDATA[【AFTER STORY 08話】<br>須藤らのグループの溜まり場。<br>※中は違います。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.352598,35.770846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【38】雨の川</name>
+        <description><![CDATA[【AFTER STORY 08話】<br>春原の嘘が原因で、須藤、佐々木両グループは臨戦状態に。<br>戦いを止めたい有紀寧は、堪えきれず溜まり場を抜け出す。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.352877,35.770916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【39】春原の寮</name>
+        <description><![CDATA[【CLANNAD、AFTER STORY 随所】<br>春原の住んでいる寮。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.353628,35.771934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【40】食事処馬鈴薯</name>
+        <description><![CDATA[【AFTER STORY 03話】<br>春原が早苗とのデートで立ち寄ろうとする店。<br>蛇足：夜のみの営業っぽいです。<br>かつ丼があるどうかは不明。<br>祭の時は、店の前でもつ煮売ってました。<br>うまかったです。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.353901,35.772631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【41】桜並木入り口／バス事故現場</name>
+        <description><![CDATA[【CLANNAD・AFTER STORY 随所／CLANNAD 12話】<br>随所：朋也と渚が上り始める「長い、長い坂道」。ここから全てが始まっていきます。<br>12話：バス通学の椋を心配する杏、渚、ことみ、朋也。椋が遅れて現れたことで安心する杏たちだったが、現場を見たことみは、両親の事故を思い出して、倒れてしまう。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.354271,35.772748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【42】OPの坂道／朋也モノローグ／喧嘩の後</name>
+        <description><![CDATA[【CLANNAD OP／01話／AFTER STORY 04話】<br>OP：坂のてっぺんに公子と芳野が立っている。<br>01話：「こうしていて」と語っている時。<br>04話：朋也と春原が喧嘩の後、絆創膏だらけの姿で登校時に鉢合わせる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.354346,35.772931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【43】桜並木中腹</name>
+        <description><![CDATA[【CLANNAD・AFTER STORY 随所】<br>ここの桜は八重桜なので、ソメイヨシノより1ヶ月遅く咲きます。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.354161,35.773621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【44】桜並木アンダーパス</name>
+        <description><![CDATA[【CLANNAD 08話】<br>風子が忘れられていくなかの下校。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.35454,35.774085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【45】有紀寧展望台</name>
+        <description><![CDATA[【AFTER STORY 08話】<br>タイマン勝負を本当にやるのかと、話し合いがもたれる。なぜこうなってしまうのかと悲しむ有紀寧。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.354864,35.773641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【46】桜並木正門前／ジャケット</name>
+        <description>【CLANNAD・AFTER STORY 随所／CLANNAD DVD初回限定版 1巻 ジャケット表紙】</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.354628,35.77467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【47】朋也モノローグ　ビューパーク展望台の景色</name>
+        <description><![CDATA[【CLANNAD 01話】<br>「この街は嫌いだ」のモノローグのカット]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.35532,35.774172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【48】朋也散歩</name>
+        <description><![CDATA[【CLANNAD 11話】<br>日曜の朝、家を出てふらつく道。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.355291,35.772457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【49】杏、告白？／杏、椋と・・・</name>
+        <description><![CDATA[【CLANNAD 11話／AFTER STORY 杏編】<br>11話：もしもどこかに、あんたのことが、好きで好きでしょうがない女の子がいたら、付き合う気ある？<br>と杏は朋也に尋ねる。<br>杏編：同じ人を好きになったのだから、どちらかが傷つくしかないと椋に怒られる杏。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.355454,35.771969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【50】ジャケット</name>
+        <description>【CLANNAD DVD初回限定版 2巻 ジャケット表紙】</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.355795,35.772043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【51】風子と学校</name>
+        <description><![CDATA[【CLANNAD 08話】<br>ついに早苗と秋生にも忘れられかけた風子。<br>もう古河家にはいられないと、渚、朋也と共に夜の学校へ向かう。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.356216,35.771508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【52】渚と登校</name>
+        <description><![CDATA[【CLANNAD 番外編】<br>夏休みの補習のため、登校する渚と朋也。<br>そこへ、またもバイクに乗った杏が現れる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.356361,35.771856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【53】汐、歩く／風子、寝る</name>
+        <description><![CDATA[【AFTER STORY 20話／最終回】<br>20話：夕方、散歩する汐。<br>蛇足：前カットでは大阪・千里山にいた汐。<br>この数秒の間に歩いた距離は、なんと500km超。<br>BGMはソララド アペンドから、eufoniusの「木漏れ日」<br>最終回：病院への道中、渋る風子に、健康だと言われれば安心できるからと言い聞かす公子。<br>それを受け、全身解剖して安心して欲しいと、風子は道端に大の字になる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.356366,35.77279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【54】朋也、秋生歩く</name>
+        <description><![CDATA[【AFTER STORY 21話】<br>汐を早苗に任せ、朋也と秋生は買出しの後、丘の上の病院へ向かう。<br>蛇足：画面左奥の建物、福祉会館は現在工事中。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.356924,35.773601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【55】途中の電柱</name>
+        <description><![CDATA[【AFTER STORY 21話】<br>汐を早苗に任せ、朋也と秋生は買出しの後、丘の上の病院へ向かう。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.357587,35.774219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【56】エピローグ</name>
+        <description><![CDATA[【AFTER STORY 最終回】<br>それぞれのその後が描かれる。<br>BGMは「小さな手のひら」]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.362932,35.777279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【57】アフタージャケット</name>
+        <description>【AFTER STORY DVD初回限定版 7巻 ジャケット表紙】</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.362879,35.777229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【58】風子、歩く (修正）</name>
+        <description><![CDATA[【AFTER STORY 最終回】<br>風子と公子、病院へ向かう道中。<br><br>修正内容：选择的是有桌子的那个场景]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3672724,35.7757149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【59】汐、歩く</name>
+        <description><![CDATA[【AFTER STORY 20話】<br>夕方、散歩する汐。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.366347,35.775112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【60】渚の丘／アバンタイトル</name>
+        <description><![CDATA[【AFTER STORY 21話／アバンタイトル】<br>渚が生死の淵をさまよっているとき、秋生が夢中で走り、たどり着いた場所。<br>汐の危機に、朋也を連れて秋生が再び訪れる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.368117,35.775986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【61】椋カレンダー</name>
+        <description>【2009年京アニ製カレンダー 9,10月】</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.361562,35.775843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【62】アフタージャケット</name>
+        <description>【AFTER STORY DVD初回限定版 8巻 ジャケット表紙】</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.36227,35.775738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【63】有紀寧兄の墓</name>
+        <description><![CDATA[【AFTER STORY 08話】<br>有紀寧の兄、和人の墓。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.361921,35.773162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【64】ことみ家に戻る朋也</name>
+        <description><![CDATA[【CLANNAD 12話】<br>ことみの見舞いに行くが、家は誰も出ず、解散する朋也たち。しかし、何かが引っかかる朋也は引き返し、もう一度ことみ家へ。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.354722,35.768461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【65】志麻、記憶を頼りに自宅へ</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 06話】<br>志麻家へ向かう道中。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.355376,35.76766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【70】芽衣、帰る</name>
+        <description><![CDATA[【CLANNAD 16話】<br>兄の様子を見終え、帰宅する芽衣。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.316216,35.758297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【71】</name>
+        <description><![CDATA[【CLANNAD・AFTER STORY 随所】<br>駅前と言えばここ。<br>朋也の差し金で、春原が怪しい勧誘まがいのナンパをしたり、デートの待ち合わせ場所にもなった。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.316034,35.75865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【73】羽村堤</name>
+        <description><![CDATA[【CLANNAD 18話】<br>智代の弟、鷹文が家族をつなぎとめるために自殺を図った川。<br>蛇足：高さは無いが、濁流なので、死ぬでしょう。<br>マネしないように。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.308805,35.755781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【74】どんぐり山児童公園</name>
+        <description><![CDATA[【AFTER STORY 13話】<br>渚との結婚をかけ、秋生と野球で真剣勝負。<br>そのために素振りを行う。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.315951,35.762755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【75】</name>
+        <description><![CDATA[【AFTER STORY 03話】<br>春原と早苗のデートコース。<br>帰り道が分からなくなった小さな兄妹を発見する。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.31612,35.76285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【76】かめのこ児童公園（渚家前公園）</name>
+        <description><![CDATA[【CLANNAD・AFTER STORY 随所】<br>古河パンの目の前の公園。<br>渚が演劇の練習をしたり、秋生が野球をする。]]></description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.319108,35.765255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【77】不安の中働く朋也</name>
+        <description><![CDATA[【AFTER STORY 16話】<br>渚の出産には少し危険が伴うと聞かされ、不安の中働く朋也。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.319513,35.765184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【78】アフターED</name>
+        <description><![CDATA[【AFTER STORY ＥＤ】<br>ED聖地の11カット目<br>蛇足：向かいのセブンイレブンはもうありません。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.320593,35.765386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【79】CLANNAD DVD初回限定版 7巻 ジャケット表紙</name>
+        <styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.322796,35.765571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【80】走る朋也、芳野</name>
+        <description><![CDATA[【AFTER STORY 11話】<br>光坂電気の車で通る道。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.326003,35.760643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【81】ことみストーカーに</name>
+        <description><![CDATA[【CLANNAD 12話】<br>集団デートの帰り、ことみは朋也に1冊の本を渡す。<br>直後、「わるもの」の気配に気付き、逃走する。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.326384,35.76003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【82】走る朋也、芳野</name>
+        <description><![CDATA[【AFTER STORY 11話】<br>光坂電気の車で通る道。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.330657,35.762306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【83】伊吹交差点</name>
+        <description><![CDATA[【CLANNAD 05話】<br>入院しているはずの「伊吹風子」の正体を確かめるため、朋也と渚は伊吹家へ向かう。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.330384,35.763917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【84】朋也、芳野走る</name>
+        <description><![CDATA[【AFTER STORY 12話】<br>光坂電気の車で通る道。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.331596,35.764744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【85】朋也、休憩時間に素振り</name>
+        <description><![CDATA[【AFTER STORY 13話】<br>渚との結婚をかけ、秋生と野球で真剣勝負。<br>そのために素振りを行う。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.333178,35.768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【86】朋也、三年後半、渚を抱えて登校</name>
+        <description><![CDATA[【AFTER STORY 09話】<br>再び体調を崩した渚。朋也に抱えられ、登校を試みるものの、断念。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.333055,35.768082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【87】芳野ギターを弾く</name>
+        <description><![CDATA[【AFTER STORY 最終回】<br>芳野が同僚にギターを弾いている。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.334388,35.769077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【88】夜の公園で</name>
+        <description><![CDATA[【AFTER STORY 12話】<br>直幸逮捕の影響で、栄転話が消えた朋也は、直幸から逃れたい一心で、この街を出ようと渚に持ちかける。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.335724,35.769238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【89】朋也、杏とキス</name>
+        <description><![CDATA[【AFTER STORY 杏編】<br>椋とのデートのために、杏は朋也にキスの練習をしようと持ちかける。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.339189,35.770472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【90】芽衣と遊びに／カレンダー風子</name>
+        <description><![CDATA[【AFTER STORY 03話／2009年京アニ製カレンダー 11,12月】<br>03話：兄を心配してばかりでは疲れると、朋也は芽衣を遊びに連れ出す。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.719339,35.706994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【91】おもちゃ屋</name>
+        <description><![CDATA[【CLANNAD 08,12話／AFTER STORY 11話】<br>08話：朋也が風子におたんじょう会セットを買い与える<br>12話：集団デートで通りがかる。<br>11話：秋生行きつけの店。いきなりじいさんが襲い掛かってくる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.719744,35.707571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【92】夜の商店街／合同デート</name>
+        <description><![CDATA[【CLANNAD 01,12話】<br>01話：直幸が寝るまで、朋也がうろつく。<br>12話：朋也、渚、ことみと、杏、椋が合流。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.719977,35.70776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【93】合同デート</name>
+        <description><![CDATA[【CLANNAD 12話】<br>夕方、みんなでソフトクリームを食べる。<br>空を見上げると飛行機雲が。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.720272,35.708081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【94】智代、ふられる</name>
+        <description><![CDATA[【CLANNAD 智代編】<br>智代の目標のためには自分が邪魔だと、朋也は智代に別れようと告げる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.720382,35.708159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【95】杏、悲しみの別れ</name>
+        <description><![CDATA[【AFTER STORY 杏編】<br>遠い存在になっていく朋也を思い、悲しみを深めていく杏。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.720473,35.708261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【96】小カレンダー</name>
+        <description>【2009卓上カレンダー 2010年1月】</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.720674,35.708002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【97】風子のゲームセンター</name>
+        <description><![CDATA[【CLANNAD 12話】<br>集団デートで、ことみに心のこもったプレゼントをと向かったゲームセンター。是が非にも巨大アリクイを取ろうとする杏の前に、風子参上！]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.716807,35.709688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【98】正門まで歩く渚</name>
+        <description><![CDATA[【AFTER STORY 番外編】<br>木村に服を見に行こうと誘われ、ここで待ち合わせ。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.426391,35.77986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【99】学校正門前</name>
+        <description><![CDATA[【CLANNAD・AFTER STORY 随所】<br>門と道のみ使用。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.426463,35.779836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【130】智代、不良を蹴散らす</name>
+        <description><![CDATA[【AFTER STORY 07話】<br>和人（春原）を追う不良を智代が蹴散らす。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.670332,35.586174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【131】椋との帰り</name>
+        <description><![CDATA[【CLANNAD 18話】<br>占いは、外れれば未来にたくさんの可能性があると思えると、椋は持論を語る。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.670364,35.586259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【132】OP</name>
+        <description><![CDATA[【CLANNAD OP】<br>杏のシーン。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.670461,35.585808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【133】悲しみの仕事／写真</name>
+        <description><![CDATA[【AFTER STORY 17,11話】<br>17話：渚を失い、惰性のように生きる日々の仕事。<br>11話：仕事で使うカメラに収められた1枚。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.67074,35.585278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【134】カレンダー渚</name>
+        <description>【2009年京アニ製カレンダー 1,2月】</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.672727,35.583919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【135】悲しみの仕事</name>
+        <description><![CDATA[【AFTER STORY 17話】<br>渚を失い、惰性のように生きる日々の仕事。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.672982,35.583627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【136】風子の交差点</name>
+        <description><![CDATA[【CLANNAD 06話】<br>古河家へ帰るとき、風子が渡る交差点。<br>蛇足：木造家屋は、今は駐車場になっています。<br>本編中でも、木造家屋から駐車場になったことが描かれ、「あれっ、渚、ここって何があったっけか。」「さぁ、すみません、思い出せないです。」というセリフまで入れられています。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.673181,35.583129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【137】風子の交差点</name>
+        <description><![CDATA[【CLANNAD 19話】<br>家庭訪問のとき、朋也と担任が通る。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.673159,35.583217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【138】智代・朋也の心の踏切</name>
+        <description><![CDATA[【CLANNAD 智代編】<br>智代と朋也の心の隔たりを表現した踏切。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.672824,35.582996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【139】朋也車で移動</name>
+        <description><![CDATA[【AFTER STORY 11話】<br>朋也はデジカメの写真を見ながら、芳野と街が変わっていくことについて話す。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.671912,35.583278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【140】写真</name>
+        <description><![CDATA[【AFTER STORY 11話】<br>光坂電気のデジカメに収められた写真。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.671724,35.583227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【142】朋也渚家に</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ 03話】<br>倒れた渚の見舞いに行った、朋也の帰り道。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.674468,35.58499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【142】桜坂交差点</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ・ＡＦＴＥＲ ＳＴＯＲＹ 随所】<br>ＡＦＴＥＲ ＳＴＯＲＹ ＥＤなどで登場。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.674594,35.58521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【143】桜坂交差点／アフターＥＤ</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ・ＡＦＴＥＲ ＳＴＯＲＹ 随所】<br>「私のうち、この先の公園の向かいのパン屋なんです。」と自宅を紹介する渚。<br>他にもＡＦＴＥＲ ＳＴＯＲＹ ＥＤなどで登場。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.674795,35.585184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【144】桜橋</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ・ＡＦＴＥＲ ＳＴＯＲＹ 随所】<br>本格的に使われたのは、ＡＦＴＥＲ ＳＴＯＲＹ 05話。<br>五十嵐には彼女がいると志麻が美佐枝に伝えるシーン。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.675136,35.585664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【145】桜坂上</name>
+        <description><![CDATA[【AFTER STORY 17話】<br>渚を失い、惰性のように生きる日々。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.675688,35.586768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【146】走る朋也</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 10話】<br>職場で雇ってもらえないかと芳野に掛け合いに行く朋也。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.676311,35.585991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【147】写真</name>
+        <description><![CDATA[【AFTER STORY 11話】<br>光坂電気のデジカメに収められた写真。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.676169,35.585747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【148】走る朋也</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ 01話】<br>直幸の態度に居たたまれなくなり、朋也は家を飛び出す。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.677158,35.584584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【149】杏追突</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ 02話】<br>杏、初めての追突。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.677126,35.582665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【150】朋也、芳野に会う</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 10話】<br>買い物の帰り、仕事中の芳野に合う。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.677043,35.58206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【151】朋也、芳野に就活</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 10話】<br>職場で雇ってもらえないかと芳野に掛け合う朋也。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.677067,35.581775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【152】写真</name>
+        <description><![CDATA[【AFTER STORY 11話】<br>光坂電気のデジカメに収められた写真。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.676547,35.581814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【153】アフタージャケット</name>
+        <description>【AFTER STORY DVD初回限定版 5巻 ジャケット表紙】</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.675871,35.581456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【154】朋也と芳野工事</name>
+        <description><![CDATA[【AFTER STORY 11話】<br>朋也と芳野の工事現場。<br>直幸の元同僚、木下と会う。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.675745,35.581437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【155】ことみ通り／朋也ずっこけ通り</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ 12話,番外編】<br>12話：集団デートの帰り、ことみが朋也に本を渡す。<br>番外編：芽衣の入れ知恵で、突飛なことを言う渚にずっこける朋也。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.675369,35.581823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【156】朋也渚二人で登校</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ 19話】<br>渚家に居候になってから、渚と二人で初めての登校。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.675066,35.584909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【157】妊婦バス</name>
+        <description><![CDATA[【AFTER STORY 15話】<br>妊娠した渚の検査で病院に行った一家が、帰りに乗るバスの通る道。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.67454,35.585239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【158参】朋也の家</name>
+        <description><![CDATA[【ＣＬＡＮＮＡＤ・ＡＦＴＥＲ ＳＴＯＲＹ 随所】<br>※雰囲気が似ているというだけで、特定したわけではありません。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.678937,35.58663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【160】朋也の新居</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 10話】<br>椋の紹介で住み始める新居の周辺。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.505736,34.775759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【161】アフターＥＤ</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ ＥＤ】<br>ED聖地の１カット目]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.50609,34.775612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【162】アフタージャケット／朋也の新居</name>
+        <description><![CDATA[【AFTER STORY DVD初回限定版 6巻 ジャケット表紙／AFTER STORY 10話】<br>椋の紹介で住み始める新居。<br>劇中の建物はかなり昔に建て替えられています。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.506087,34.775568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【163】絶え絶えの汐</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 21話】<br>病気の汐の願いを叶えるため、朋也と汐が駅に向かう道中。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.506047,34.775107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【164】アフターED</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ ＥＤ】<br>ED聖地の３カット目]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.506098,34.774034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【165】夫婦</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 17,19話,最終回】<br>17話では、おばあちゃんと娘、<br>19話では、朋也と汐、<br>最終回では朋也、渚、汐が揃って通る道。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.506329,34.774156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【166】夜道／新年</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 10,12話他】<br>10話：朋也、引越し当日の夜。<br>12話：新年を迎えた街の風景。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.50778,34.774887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【168】夜道、早苗さんと</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 16話】<br>渚の出産に危険が伴うことを知り、早苗は自分を恨んでいるのではないかと思うことがあると早苗に話す朋也。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.509188,34.77236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【169】夜道</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 16話】<br>渚の出産に危険が伴うことを知り、早苗は自分を恨んでいるのではないかと思うことがあると早苗に話す朋也。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.510239,34.771816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【170】拘置所反転</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 12話】<br>逮捕された直幸の拘置所。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.522666,34.713987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【171】プロポーズ</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 12話】<br>拘置所の帰り、苛立ちのあまりにやけを起こす朋也。必死に止めに掛かる渚に、朋也はプロポーズする。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.527945,34.712315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【180】アフターED</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ ＥＤ】<br>ED聖地の８カット目]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.703938,34.885977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【181】アフターOP</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ OP】<br>夕焼けの中、春原と芽衣が並んで歩く。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.704319,34.885748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【182】胎教</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 15話】<br>すっかりおなかの大きくなった渚をつれて河原に来る朋也。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.709908,34.882595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【183】アフターOP／アフタージャケット</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ OP／AFTER STORY DVD初回限定版 3巻 ジャケット表紙】<br>蛇足：ジャケットのアングルは立ち入り禁止になっています。入らないように。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.710834,34.882371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【185】命名・汐</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 15話】<br>朋也と渚は、生まれてくる子供の名前を汐と名づける。<br>蛇足：本来立ち入る場所ではないので、降りられるようにはなっていません。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.710528,34.883126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【186】最終決戦</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 08話】<br>須藤らと佐々木らの最終決戦の地。<br>須藤らはネオレインボーパンを食べて全員K.O.<br>仕方なく朋也が佐々木と戦う。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.711072,34.882954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【187】二人で我が家に</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 14話】<br>二人で暮らし始めた朋也と渚。朋也は仕事帰り、買い物帰りの渚を見つけ、駆け寄る。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.717767,34.880164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【188】朋也最初の仕事</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 10話】<br>光坂電気での初仕事。<br>電柱に街灯をつける。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.716091,34.879537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【190】夜の踏切</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 16話】<br>渚の出産当日の街の様子。<br>大雪の街。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.784919,34.931187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【191】新装工事</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 19話】<br>汐を幼稚園に送り届けた後、仕事現場へ。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.792933,34.933024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【192】果物屋</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 16話】<br>渚を救った緑の丘に立つ朋也に、何もかも変わらずにはいられない、人が生きていくとはそういうことだと諭す秋生。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.795506,34.932285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【193】戸鳴町病院</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 16話】<br>妊娠した渚が通う病院。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.79638,34.935363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【200】スーパー白鳥で移動</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 18話】<br>朋也と汐の旅行の道中。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.586956,41.055554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【201】長い夢が終わる</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 最終回】<br>「僕」の長い長い旅路の走馬灯の一部。<br>蛇足：走馬灯映像は全て実写。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.344194,41.261122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【202】竜飛崎で岡崎しのと出会う</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 18話】<br>朋也がしのと会う。<br>しのは、直幸が今の朋也と同じ境遇であったことを話す。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.342711,41.260892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【203】歩く朋也</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 18話】<br>朋也は菜の花畑から岬に向かって歩いていく。<br>蛇足：汐も朋也も無茶しすぎ。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.343347,41.258324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【204】版権イラスト</name>
+        <description>【CLANNAD DVD初回限定版 4巻付属 特製卓上カレンダー 8,9月】</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.341973,41.257533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【205】電柱</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 最終回】<br>エピローグの朋也一家の青森旅行の１シーン。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.26255,41.12469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【206】二人で・・・／遊ぶ汐</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 最終回】<br>エピローグの朋也一家の青森旅行の１シーン。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.277721,41.120309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【207】アフターED</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ ED】<br>ED聖地の最後]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.271327,41.112453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【208】陸奥横浜駅</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 18話,最終回】<br>菜の花畑を見に降りる駅。<br>蛇足：菜の花畑には有畑駅のほうが近い。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.249912,41.086678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【209】三人で旅行</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 最終回】<br>エピローグの朋也一家の青森旅行の１シーン。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.256478,41.045966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【210】三人で旅行</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 最終回】<br>エピローグの朋也一家の青森旅行の１シーン。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.231823,40.994994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【211】駅に到着</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 18話】<br>菜の花畑を見に降りる駅の線路。<br>蛇足：線路のみモデル。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.161131,41.280209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【212】八戸駅</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 18話】<br>朋也と汐の旅行。<br>ここで乗り換え。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.431508,40.509068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【220】汐と散歩</name>
+        <description><![CDATA[【AFTER STORY 19話】<br>一緒に暮らし始めた朋也と汐のある日の散歩道。<br>後に通りかかる公園（【18】）で公子に呼びかけられる。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.361749,35.760104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【221】光坂電気</name>
+        <description><![CDATA[【AFTER STORY 12話】<br>蛇足：光坂電気の建物は無いものの、それ以外（自販機、周辺の家）は一致。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3343,35.768931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【224】汐の宿</name>
+        <description><![CDATA[【AFTER STORY 18話】<br>朋也と汐の旅行で1日目に泊まった宿。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.813294,34.887405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【227】中学時代智代、鷹文と道で</name>
+        <description><![CDATA[【CLANNAD 18話】<br>智代過去の回想シーン]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.714267,35.721953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【231】渚の病院</name>
+        <description><![CDATA[【AFTER STORY 20話】<br>渚を助けた丘の上に建てられた病院。<br>汐1人の散歩の終着点。<br>蛇足：実際の地図上では朋也家からこの病院までおそよ540ｋｍ。恐るべき健脚、汐。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.051222,35.628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【232】汐の通う幼稚園</name>
+        <description>【AFTER STORY 全般】建物のモデル。３階と２階との違いをつけている。なお現在は廃園、残っていない。</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.058678,35.641473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【240】岡崎しのの実家</name>
+        <description><![CDATA[【AFTER STORY 最終回】<br>エピローグの朋也一家の青森旅行の１シーン。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            141.28109,38.653706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【241】カレンダーことみ</name>
+        <description>【2009年京アニ製カレンダー 5,6月】</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.65249,35.4387851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[242]CLANNAD DVD初回限定版 5巻 ジャケット表紙</name>
+        <description>请勿公开发表</description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.3609694,35.756235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[243] 第12话, 琴美家背面</name>
+        <description>不能公开</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3610084,35.7560774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[244] CLANNAD 光板高校</name>
+        <description><![CDATA[筑波大學附屬駒場中學校·高等學校<br>无法入内]]></description>
+        <styleUrl>#icon-960-F4EB37</styleUrl>
+        <Point>
+          <coordinates>
+            139.681216,35.6555651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[245] 朋也新家附近 Pattern 1 - 弯道</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5122494,34.7717887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[246] 汐の庭 (CLANNAD Galgame OP的那颗树)</name>
+        <description><![CDATA[具体是哪颗树有点分辨不清，但是http://air.blue.coocan.jp/cla-af-22.html指出至少是这里<br><br>https://www.bilibili.com/video/BV1km4y1b7oV/指出原树已经被雷劈倒下了]]></description>
+        <styleUrl>#icon-960-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            139.3683936,35.776101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[247] CLANNAD DVD初回限定版 8巻 ジャケット表紙</name>
+        <styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.36167,35.7637503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[248] CLANNAD DVD初回限定版 3巻 ジャケット表紙</name>
+        <styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.3609747,35.760629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[249] CLANNAD DVD初回限定版 6巻 ジャケット表紙</name>
+        <styleUrl>#icon-960-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.315916,35.7587534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Overseas</name>
+      <Placemark>
+        <name>【O-1】ことみスーツケース4</name>
+        <description><![CDATA[【14話】<br>4番目に手渡された場所。カト ミリの風車前。]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            25.3256804,37.4444122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【O-2】ことみスーツケース7</name>
+        <description><![CDATA[【14話】<br>7番目に手渡された場所。ベレンの塔前。]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -9.2159414,38.6916859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
