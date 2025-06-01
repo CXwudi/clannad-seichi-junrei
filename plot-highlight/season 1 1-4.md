@@ -130,6 +130,8 @@ common 朋也家
 ![alt text](img/cla-3-0-s0.jpg)
 ![alt text](img/cla-3.wmv_000309976.jpg)
 
+common 春原宿舍
+
 ## 4. 寻找伙伴
 
 - 朋也尝试帮助渚募集成员, 即使学生会阻止, 安慰渚

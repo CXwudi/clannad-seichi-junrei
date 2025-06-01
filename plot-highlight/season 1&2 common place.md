@@ -279,6 +279,10 @@ AF第11集
 
 ![alt text](img/clan-1-24.jpg)
 
+第3集
+
+![alt text](img/cla-3.wmv_000451784.jpg)
+
 第17集
 
 ![alt text](img/cla17-0105.jpg)
