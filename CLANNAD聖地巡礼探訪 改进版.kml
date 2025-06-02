@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>New plan CLANNAD聖地巡礼探訪</name>
-    <description><![CDATA[This is a copy adapted from http://air.blue.coocan.jp/index.html<br><br>Original Description:<br><br>足で捜した情報をマーキングしました。<br>旅行時の参考にしていただけると幸いです。<br><br>HP：お箸が重い<br>http://air.blue.coocan.jp/index.html]]></description>
+    <name>CLANNAD聖地巡礼探訪 改进版</name>
+    <description><![CDATA[This is a copy adapted from http://air.blue.coocan.jp/index.html<br>with extra addition and fixes<br><br>Original Description:<br><br>足で捜した情報をマーキングしました。<br>旅行時の参考にしていただけると幸いです。<br><br>HP：お箸が重い<br>http://air.blue.coocan.jp/index.html]]></description>
     <Style id="icon-22-normal">
       <IconStyle>
         <scale>1.1</scale>
@@ -854,7 +854,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>【71】</name>
+        <name>【71】羽村駅</name>
         <description><![CDATA[【CLANNAD・AFTER STORY 随所】<br>駅前と言えばここ。<br>朋也の差し金で、春原が怪しい勧誘まがいのナンパをしたり、デートの待ち合わせ場所にもなった。]]></description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
@@ -1243,7 +1243,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>【142】朋也渚家に</name>
+        <name>【141】朋也渚家に</name>
         <description><![CDATA[【ＣＬＡＮＮＡＤ 03話】<br>倒れた渚の見舞いに行った、朋也の帰り道。]]></description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
@@ -1935,6 +1935,15 @@
         <Point>
           <coordinates>
             139.315916,35.7587534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[250] CLANNAD 第1集, 朋也君出逃</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.6766111,35.5857608,0
           </coordinates>
         </Point>
       </Placemark>
