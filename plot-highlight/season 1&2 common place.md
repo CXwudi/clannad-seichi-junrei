@@ -310,6 +310,22 @@ AF第5集
 ![alt text](img/cla-1-14-s0.jpg)
 ![alt text](img/clan-1-71.jpg)
 
+第10集
+
+![alt text](img/cla-10-30-s.jpg)
+![alt text](img/cla-10-30.jpg)
+
+![alt text](img/cla-10-31-s.jpg)
+![alt text](img/cla-10-31.jpg)
+
+![alt text](img/cla-10-33-s.jpg)
+![alt text](img/cla-10-33.jpg)
+
+![alt text](img/cla-10-35-s.jpg)
+![alt text](img/cla-10-35.jpg)
+
+![alt text](<img/Clannad 2007 EP10 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_09.29.281.png>)
+
 ## 古河渚家与公园 (かめのこ児童公園)
 
 所有古河渚面包店图认准这个图

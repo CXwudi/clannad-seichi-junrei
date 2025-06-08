@@ -33,7 +33,7 @@
 椋下车车站
 
 ![alt text](img/cla-10-0-s.jpg)
-![alt text](img/cla-10-0.jpg)
+![alt text](img/komaround-no10.jpg) (お箸が重い 并未给出下车地点图片，只是给了个bus的图片，お箸が重い 声称下车地点在图中最左边的红点，但个人感觉不像)
 
 朋也和渚的上学路
 
@@ -44,31 +44,25 @@
 ![alt text](img/cla-10-2.jpg)
 ![alt text](img/cla-10-4.jpg)
 
+![alt text](img/cla-10-1-s.jpg)
+![alt text](<img/Clannad 2007 EP10 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_03.20.427.png>)
+
 ![alt text](img/cla-10-6-s.jpg)
 ![alt text](img/cla-10-5.jpg)
 
 ![alt text](img/cla-10-9-s.jpg)
 ![alt text](img/cla-10-8.jpg)
+![alt text](<img/Clannad 2007 EP10 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_03.50.036.png>)
+![alt text](<img/Clannad 2007 EP10 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_03.52.263.png>)
 
 ![alt text](img/cla-10-10-s.jpg)
 ![alt text](img/cla-10-10.jpg)
+![alt text](<img/Clannad 2007 EP10 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_04.16.555.png>)
 
 ![alt text](img/cla-10-11-s.jpg)
 ![alt text](img/cla-10-11.jpg)
 
-朋也送琴美回家
-
-![alt text](img/cla-10-30-s.jpg)
-![alt text](img/cla-10-30.jpg)
-
-![alt text](img/cla-10-31-s.jpg)
-![alt text](img/cla-10-31.jpg)
-
-![alt text](img/cla-10-33-s.jpg)
-![alt text](img/cla-10-33.jpg)
-
-![alt text](img/cla-10-35-s.jpg)
-![alt text](img/cla-10-35.jpg)
+common さくら板
 
 有一个书店的地点, 但觉得地点牵强, 不大像
 
