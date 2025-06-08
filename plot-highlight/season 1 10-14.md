@@ -113,9 +113,11 @@ common さくら板
 
 ![alt text](img/cla-11-18-s.jpg)
 ![alt text](img/cla-11-18.jpg)
+![alt text](<img/Clannad 2007 EP11 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_08.32.253.png>)
 
 ![alt text](img/cla-11-19-s.jpg)
 ![alt text](img/cla-11-19.jpg)
+![alt text](<img/Clannad 2007 EP11 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_08.25.648.png>)
 
 ![alt text](img/cla-11-13-s-1.jpg)
 ![alt text](img/cla-11-20.jpg)
@@ -138,12 +140,13 @@ common さくら板
 
 ![alt text](img/cla-11-32-s.jpg)
 ![alt text](img/cla-11-32.jpg)
+![alt text](<img/Clannad 2007 EP11 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_15.20.268.png>)
 
 ![alt text](img/cla-11-33-s.jpg)
 ![alt text](img/cla-11-34.jpg)
 ![alt text](img/cla-11-33.jpg)
 
-以及樱花道, 详见common place
+以及common樱花坡道
 
 ## 12. 被隐藏的世界
 
