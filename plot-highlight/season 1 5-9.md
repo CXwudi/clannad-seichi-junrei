@@ -60,6 +60,8 @@
 
 详见common 风子十字路口
 
+common 樱花坡道
+
 ### 8. 消逝在黄昏的风
 
 - 婚礼很快到了, 努力得到回报
@@ -80,18 +82,11 @@
 ![alt text](img/cla-8-31-s.jpg)
 ![alt text](img/cla-8-31.jpg)
 
-商店街
+common 羽村车站
 
-![alt text](img/cla-8-32-s.jpg)
-![alt text](img/cla-8-32.jpg)
+common 商店街
 
-喷泉公园
-
-![alt text](img/cla-8-40-s1.jpg)
-![alt text](img/cla-8-40.jpg)
-![alt text](img/cla-8-37.jpg)
-![alt text](img/cla-8-38.jpg)
-
+common 喷泉公园
 
 详看第11话地点
 ![alt text](img/cla-8-43.jpg)
@@ -119,8 +114,7 @@
 
 ### Highlight 地点
 
-这是之前几集出现的风子路口
-![alt text](img/<2025-03-30 21-04-47.jpg>)
+common 风子路口
 
 樱花道往外看
 ![alt text](img/cla-9-13-s.jpg)

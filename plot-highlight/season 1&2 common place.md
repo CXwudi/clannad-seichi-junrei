@@ -410,6 +410,11 @@ AF第22集
 ![alt text](img/cla-1-44-s1.jpg)
 ![alt text](img/cla-1-43.jpg)
 
+第8集
+
+![alt text](img/cla-8-32-s.jpg)
+![alt text](img/cla-8-32.jpg)
+
 第12集
 
 ![alt text](img/cla-12-13-s.jpg)
@@ -510,6 +515,10 @@ AF第17集
 ![alt text](img/cla-7-21-s.jpg)
 ![alt text](img/cla-7-21.jpg)
 
+第9集
+
+![alt text](<img/2025-03-30 21-04-47.jpg>)
+
 AF第3集
 
 ![alt text](img/cla-af-3-002-s.jpg)
@@ -524,6 +533,19 @@ AF第3集
 
 ## 峡山池喷泉公园 (TODO)
 
+第8集
+
+![alt text](<img/Screenshot 2025-06-07 234323.png>)
+![alt text](img/cla-8-37.jpg)
+![alt text](img/cla-8-38.jpg)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_18.49.327.png>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.13.248.png>)
+![alt text](img/cla-8-40.jpg)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.23.037.png>)
+
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.24.253.png>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.25.219.png>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.27.402.png>)
 
 AF第22集
 
@@ -533,7 +555,9 @@ AF第22集
 ![alt text](img/cla-af-22-9-s.jpg)
 ![alt text](img/cla-af-22-048.jpg)
 
-## 早稻田商店街
+## 早稻田商店街 (TODO)
+
+第1集
 
 ![alt text](img/cla-1-45-s.jpg)
 ![alt text](img/cla-1-45.jpg)
@@ -541,7 +565,24 @@ AF第22集
 ![alt text](img/cla-1-46-s.jpg)
 ![alt text](img/cla-1-44.jpg)
 
+第8集
 
+![alt text](<img/Screenshot 2025-06-07 225604.png>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.12.044.png>)
+
+![alt text](<img/Screenshot 2025-06-07 230720.png>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.20.475.png>)
+
+![alt text](img/cla-12-23-s.jpg)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.40.462.png>)
+
+![alt text](<img/2025-06-07 23-19-46.jpg>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.44.775.png>)
+
+![alt text](<img/2025-06-07 23-23-02.jpg>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.50.170.png>)
+![alt text](<img/image9.png>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_18.01.454.png>)
 
 ## どんぐり山児童公園
 
