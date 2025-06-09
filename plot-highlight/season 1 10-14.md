@@ -348,9 +348,15 @@ common 峡山池公园
 
 ### Highlight 地点
 
+![alt text](img/cla-12-107-s2.jpg)
+![alt text](img/cla140004.jpg)
+
 ![alt text](img/cla140015-s.jpg) (表纸出口正前方那栋的前门)
 ![alt text](img/cla140015.jpg)
 ![alt text](img/cla140019.jpg)
+
+![alt text](img/cla140032-s.jpg)
+![alt text](<img/Screenshot 2025-06-08 230155.png>)
 
 ![alt text](img/cla140153-s.jpg) (表纸右边那栋)
 ![alt text](img/cla140153.jpg)
