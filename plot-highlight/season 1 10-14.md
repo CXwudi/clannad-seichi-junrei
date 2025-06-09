@@ -311,10 +311,19 @@ common 峡山池公园
 
 ### Highlight 地点
 
+琴美家
+
+![alt text](img/cla130013-s.jpg)
+![alt text](img/cla130013.jpg)
+
+附近
+
 ![alt text](img/cla130091-s4.jpg)
 ![alt text](img/cla130091.jpg)
 
-![alt text](img/cla130129-s0.jpg)
+其他
+
+![alt text](img/cla130129-s0.jpg) (お箸が重い 认为是新橋、桜田公園, 但个人感觉不像)
 ![alt text](img/cla130129.jpg)
 
 ![alt text](img/cla130133-s.jpg)

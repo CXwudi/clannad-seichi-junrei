@@ -272,6 +272,15 @@ AF第11集
 
 ![alt text](img/cla-af-11-182.jpg)
 
+## 学校大楼正面 （TODO）
+
+无需进入学校内部即可拍摄的
+
+第13集
+
+![alt text](cla130058-s.jpg)
+![alt text](cla130058.jpg)
+
 ## 春原宿舍
 
 所有春原宿舍认准这个图
