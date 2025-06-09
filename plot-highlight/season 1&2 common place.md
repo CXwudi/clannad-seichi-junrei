@@ -49,6 +49,10 @@ AF第19集
 
 ![alt text](img/clan-2-85.jpg)
 
+第6集
+
+![alt text](<img/Clannad 2007 EP06 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_13.31.237.png>)
+
 第8集
 
 ![alt text](img/cla-8-11.jpg)
@@ -74,6 +78,8 @@ AF第19集
 
 ![alt text](img/cla-12-69-s.jpg)
 ![alt text](img/cla-12-69.jpg)
+
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_12.26.695.png>)
 
 ![alt text](img/cla-12-72-s.jpg)
 ![alt text](img/cla-12-72.jpg)
@@ -154,10 +160,6 @@ AF第1集
 
 ![alt text](img/cal-af-1-30s.jpg)
 ![alt text](img/cla-af-1-065.jpg)
-
-AF第3集
-
-![alt text](img/cla-af-3-181.jpg)
 
 AF第4集
 
@@ -377,6 +379,8 @@ AF第2集
 
 AF第3集
 
+![alt text](img/cla-af-3-181.jpg)
+
 ![alt text](img/image-af3-2.png)
 
 AF第10集
@@ -563,6 +567,21 @@ AF第3集
 ![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.25.219.png>)
 ![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.27.402.png>)
 
+第12集
+
+![alt text](img/cla-12-114-s.jpg)
+![alt text](img/cla-12-114.jpg)
+
+![alt text](img/cla-12-116-s.jpg)
+![alt text](img/cla-12-116.jpg)
+
+![alt text](img/cla-12-117-s.jpg)
+![alt text](img/cla-12-117.jpg)
+
+![alt text](img/cla-12-119-s.jpg)
+![alt text](img/cla-12-118.jpg)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.50.990.png>)
+
 AF第22集
 
 ![alt text](img/cla-af-22-8-s.jpg)
@@ -589,6 +608,9 @@ AF第22集
 ![alt text](<img/Screenshot 2025-06-07 230720.png>)
 ![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.20.475.png>)
 
+![alt text](<img/Screenshot 2025-06-08 190057.png>)
+![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.36.223.png>) （左边的就是，至于原因见下面第12集）
+
 ![alt text](img/cla-12-23-s.jpg)
 ![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.40.462.png>)
 
@@ -599,6 +621,26 @@ AF第22集
 ![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.50.170.png>)
 ![alt text](<img/image9.png>)
 ![alt text](<img/Clannad 2007 EP08 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_18.01.454.png>)
+
+第12集
+
+![alt text](img/cla-12-23-s.jpg)
+![alt text](img/cla-12-23.jpg)
+
+![alt text](img/cla-12-22-s.jpg) (POTON小屋顶已经不见了, 但会计师培训楼还是会计师培训楼，这里同样也是第8集和风子一起去的小饰品摊)
+![alt text](img/cla-12-22.jpg)
+
+![alt text](img/cla-12-29-s.jpg)
+![alt text](img/cla-12-29.jpg)
+
+![alt text](img/cla-12-44-s.jpg)
+![alt text](img/cla-12-44.jpg)
+
+![alt text](img/cla-12-45-s.jpg)
+![alt text](img/cla-12-45.jpg)
+
+![alt text](img/cla-12-46-s.jpg)
+![alt text](img/cla-12-46.jpg)
 
 ## どんぐり山児童公園
 

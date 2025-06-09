@@ -175,73 +175,77 @@ common さくら板
 
 ### Highlight 地点
 
-商店街
+common 羽村车站
 
-![alt text](img/cla-12-23-s.jpg)
-![alt text](img/cla-12-23.jpg)
+common 商店街
 
-![alt text](img/cla-12-22-s.jpg)
-![alt text](img/cla-12-22.jpg)
-
-![alt text](img/cla-12-27-s.jpg)
+![alt text](img/cla-12-27-s.jpg) （找不到）
 ![alt text](img/cla-12-27.jpg)
 
-![alt text](img/cla-12-29-s.jpg)
-![alt text](img/cla-12-29.jpg)
-
-![alt text](img/cla-12-44-s.jpg)
-![alt text](img/cla-12-44.jpg)
-
-![alt text](img/cla-12-45-s.jpg)
-![alt text](img/cla-12-45.jpg)
-
-![alt text](img/cla-12-46-s.jpg)
-![alt text](img/cla-12-46.jpg)
-
 分别路上
+
+![alt text](img/cla-12-48-s.jpg)
+![alt text](img/cla-12-48.jpg)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_09.58.008.png>)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_09.59.807.png>)
+
+朋也和琴美回家路上
 
 ![alt text](img/cla-12-47-s.jpg)
 ![alt text](img/cla-12-47.jpg)
 
-![alt text](img/cla-12-48-s.jpg)
-![alt text](img/cla-12-48.jpg)
-
-朋也和琴美回家路上
-
 ![alt text](img/cla-12-51-s.jpg)
 ![alt text](img/cla-12-51.jpg)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_10.06.104.png>)
+
+![alt text](<img/Screenshot 2025-06-08 194048.png>)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_10.29.815.png>)
 
 ![alt text](img/cla-12-57-s.jpg)
 ![alt text](img/cla-12-54.jpg)
 
 ![alt text](img/cla-12-58-s.jpg)
 ![alt text](img/cla-12-56.jpg)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_10.56.974.png>)
 
 ![alt text](img/cla-12-60-s.jpg)
 ![alt text](img/cla-12-60.jpg)
 
+![alt text](<img/Screenshot 2025-06-08 194048.png>)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_11.00.495.png>)
+
 ![alt text](img/cla-12-61-s.jpg)
 ![alt text](img/cla-12-61.jpg)
 
+common 樱花坡道
+
 车祸现场 (其实就是樱花坡道的开端的十字路口处)
 
-![alt text](img/cla-12-74-s.jpg) (这张不在)
+![alt text](img/cla-12-74-s.jpg)
 ![alt text](img/cla-12-74.jpg)
 
 ![alt text](img/cla-12-75-s.jpg)
 ![alt text](img/cla-12-75.jpg)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_13.20.898.png>)
 
 ![alt text](img/cla-12-77-s.jpg)
 ![alt text](img/cla-12-77.jpg)
 
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_13.36.089.png>)
+
 ![alt text](img/cla-12-81-s.jpg)
 ![alt text](img/cla-12-81.jpg)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_13.30.163.png>)
 
 ![alt text](img/cla-12-82-s.jpg)
 ![alt text](img/cla-12-82.jpg)
 
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_14.26.394.png>)
+
 ![alt text](img/cla-12-84-s.jpg)
 ![alt text](img/cla-12-86.jpg)
+
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_15.10.787.png>)
 
 琴美家前面 (无法找到)
 
@@ -252,9 +256,12 @@ common さくら板
 
 ![alt text](img/cla-12-100-s.jpg)
 ![alt text](img/cla-12-100.jpg)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.16.300.png>)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.09.254.png>)
 
 ![alt text](img/cla-12-105-s.jpg)
 ![alt text](img/cla-12-105.jpg)
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_17.21.775.png>)
 
 琴美家的背面, 朋也返回琴美家
 
@@ -264,22 +271,12 @@ common さくら板
 ![alt text](img/cla-12-107.jpg)
 
 ![alt text](img/cla-12-122-s.jpg) (表纸左边那栋)
-![alt text](img/cla-12-122.jpg)
 ![alt text](img/cla-12-108.jpg)
+![alt text](img/cla-12-122.jpg)
 
-与黑衣大叔交谈
+![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_18.37.101.png>)
 
-![alt text](img/cla-12-114-s.jpg)
-![alt text](img/cla-12-114.jpg)
-
-![alt text](img/cla-12-116-s.jpg)
-![alt text](img/cla-12-116.jpg)
-
-![alt text](img/cla-12-117-s.jpg)
-![alt text](img/cla-12-117.jpg)
-
-![alt text](img/cla-12-119-s.jpg)
-![alt text](img/cla-12-118.jpg)
+common 峡山池公园
 
 最后
 
