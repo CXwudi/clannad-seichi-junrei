@@ -253,7 +253,7 @@ AF第22集
 
 ![alt text](img/clan-1-22.jpg)
 
-第15集
+第14集
 
 ![alt text](img/cla140080.jpg)
 
@@ -276,10 +276,17 @@ AF第11集
 
 无需进入学校内部即可拍摄的
 
+![alt text](img/cla130058-s.jpg)
+
+
 第13集
 
-![alt text](cla130058-s.jpg)
-![alt text](cla130058.jpg)
+![alt text](img/cla130058.jpg)
+
+第15集
+
+![alt text](img/cla-7-5-s0.jpg)
+![alt text](img/cla15-0106.jpg)
 
 ## 春原宿舍
 
