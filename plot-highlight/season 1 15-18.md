@@ -102,8 +102,8 @@ common さくら板
 ![alt text](img/cla17-0108-s.jpg)
 ![alt text](img/cla17-0108.jpg)
 
-![alt text](<Screenshot 2025-06-15 174933.png>)(お箸が重い 认为是十字路口对面那个，我更认为是这边这个，原因详见蓝色圈圈标注)
-![alt text](<Clannad 2007 EP17 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_09.17.515.png>)
+![alt text](<img/Screenshot 2025-06-15 174933.png>)(お箸が重い 认为是十字路口对面那个，我更认为是这边这个，原因详见蓝色圈圈标注)
+![alt text](<img/Clannad 2007 EP17 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_09.17.515.png>)
 
 ![alt text](img/cla17-0112-s.jpg)
 ![alt text](img/cla17-0111.jpg)

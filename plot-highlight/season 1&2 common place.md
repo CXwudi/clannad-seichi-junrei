@@ -117,7 +117,11 @@ AF第19集
 
 第17集
 
+![alt text](img/cla-9-26-s.jpg)
+![alt text](img/cla17-0256.jpg)
 
+![alt text](img/cla17-0257.jpg)
+![alt text](img/cla17-0259.jpg)
 
 第18集
 
