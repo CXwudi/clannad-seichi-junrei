@@ -112,6 +112,13 @@ AF第19集
 ![alt text](img/clan-1-20-s.jpg)
 ![alt text](img/cla16-0046.jpg)
 
+![alt text](img/cla16-0050.jpg)
+![alt text](img/cla16-0050-s.jpg)
+
+第17集
+
+
+
 第18集
 
 在坡道往外走一个小坡上
@@ -292,6 +299,8 @@ AF第11集
 
 所有春原宿舍认准这个图
 ![alt text](img/cla-11-24-s.jpg)
+实际上到今天地图上已经完全看不出来
+![alt text](<img/2025-06-15 16-14-57.jpg>)
 
 第1集
 
@@ -301,6 +310,11 @@ AF第11集
 
 ![alt text](img/cla-3.wmv_000451784.jpg)
 
+第16集
+
+![alt text](cla16-0025-s.jpg) (为宿舍正门对面的居民楼, 截止至收集时间还在)
+![alt text](cla16-0025.jpg)
+
 第17集
 
 ![alt text](img/cla17-0105.jpg)
@@ -309,8 +323,7 @@ AF第5集
 
 ![alt text](img/cla-af-5-1-s.jpg)
 ![alt text](img/cla-af-5-005.jpg)
-
-![alt text](img/cla-af-5-006.jpg)
+![alt text](<img/Clannad ~After Story~ 2008 EP05 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_03.39.794.png>)
 
 ## さくら板 (TODO)
 
@@ -343,6 +356,11 @@ AF第5集
 ![alt text](img/cla-10-35.jpg)
 
 ![alt text](<img/Clannad 2007 EP10 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_09.29.281.png>)
+
+第17集
+
+![alt text](img/cla17-0017.jpg)
+![alt text](img/cla17-0017-s.jpg)
 
 ## 古河渚家与公园 (かめのこ児童公園)
 

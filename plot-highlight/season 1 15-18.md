@@ -91,10 +91,10 @@ common 车站 (其中一个表纸也在)
 
 ### Highlight 地点
 
-![alt text](img/cla17-0017.jpg)
-![alt text](img/cla17-0017-s.jpg)
+common さくら板
 
 ![alt text](img/cla17-0107-s0.jpg)
+![alt text](<img/Clannad 2007 EP17 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_09.10.681.png>)
 ![alt text](img/cla17-0107.jpg)
 
 智代回家
@@ -102,8 +102,8 @@ common 车站 (其中一个表纸也在)
 ![alt text](img/cla17-0108-s.jpg)
 ![alt text](img/cla17-0108.jpg)
 
-![alt text](img/cla17-0109-s.jpg)
-![alt text](img/cla17-0109.jpg)
+![alt text](<Screenshot 2025-06-15 174933.png>)(お箸が重い 认为是十字路口对面那个，我更认为是这边这个，原因详见蓝色圈圈标注)
+![alt text](<Clannad 2007 EP17 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_09.17.515.png>)
 
 ![alt text](img/cla17-0112-s.jpg)
 ![alt text](img/cla17-0111.jpg)
