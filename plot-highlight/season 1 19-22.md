@@ -27,13 +27,7 @@
 
 common 樱花坡道
 
-去朋也家路上 (与风子的路口一致)
-
-![alt text](img/cla19-0044-s.jpg)
-![alt text](img/cla19-0044.jpg)
-
-![alt text](img/cla19-0045-s.jpg) 左侧一角的商店一致
-![alt text](img/cla19-0045.jpg)
+common 风子路口
 
 common 朋也家
 
@@ -56,14 +50,10 @@ common 朋也家
 ![alt text](img/cla19-0057-s.jpg) (与第17集智代回家是一个场景)
 ![alt text](img/cla19-0057.jpg)
 
-![alt text](img/cla19-0058-s.jpg)
+![alt text](img/cla19-0058-s.jpg) (感觉背景不像)
 ![alt text](img/cla19-0058.jpg)
 
-![alt text](img/cla19-0120-s.jpg)
-![alt text](img/cla19-0120.jpg)
-
-![alt text](img/cla19-0122-s.jpg)
-![alt text](img/cla19-0122.jpg)
+common さくら板
 
 ## 20. 被隐藏的过去
 

@@ -56,7 +56,7 @@ AF第19集
 第8集
 
 ![alt text](img/cla-8-11.jpg)
-![alt text](img/cla-8-30.jpg)
+![alt text](img/cla-8-30.jpg) (如何取景的, 详见第18集说明)
 
 ![alt text](<img/2025-03-30 01-18-46.jpg>)
 
@@ -126,6 +126,9 @@ AF第19集
 第18集
 
 在坡道往外走一个小坡上
+
+![alt text](img/cla18-0167-s.jpg) (这张图解释了第8集, 和风子一起放学的那个场景是怎么取景的)
+![alt text](img/cla18-0167.jpg) (不过事实上, 动漫里这块的角度跟人认为应该是上图的对面角度)
 
 ![alt text](img/cla18-0170-s.jpg)
 ![alt text](img/cla18-0170.jpg)
@@ -366,6 +369,14 @@ AF第5集
 ![alt text](img/cla17-0017.jpg)
 ![alt text](img/cla17-0017-s.jpg)
 
+第19集
+
+![alt text](img/cla19-0120-s.jpg)
+![alt text](img/cla19-0120.jpg)
+
+![alt text](img/cla19-0122-s.jpg) (此为さくら板北面的桥, AF第5集会有更多说明)
+![alt text](img/cla19-0122.jpg)
+
 ## 古河渚家与公园 (かめのこ児童公園)
 
 所有古河渚面包店图认准这个图
@@ -577,6 +588,14 @@ AF第17集
 
 ![alt text](<img/2025-03-30 21-04-47.jpg>)
 
+第19集
+
+![alt text](img/cla19-0044-s.jpg)
+![alt text](img/cla19-0044.jpg)
+
+![alt text](img/cla19-0045-s.jpg) 左侧一角的商店一致
+![alt text](img/cla19-0045.jpg)
+
 AF第3集
 
 ![alt text](img/cla-af-3-002-s.jpg)
@@ -679,6 +698,25 @@ AF第22集
 
 ![alt text](img/cla-12-46-s.jpg)
 ![alt text](img/cla-12-46.jpg)
+
+第18集
+
+![alt text](img/cla18-0047-s.jpg)
+![alt text](img/cla18-0047.jpg)
+![alt text](img/cla18-0048.jpg)
+![alt text](img/cla18-0051.jpg)
+![alt text](img/cla18-0053.jpg)
+
+![alt text](img/cla-12-29-s.jpg) 与风子的第12集一致
+![alt text](img/cla18-0054.jpg)
+![alt text](img/cla18-0055.jpg)
+
+![alt text](img/cla18-0071-s.jpg)
+![alt text](img/cla18-0071.jpg)
+![alt text](img/cla18-0074.jpg)
+
+![alt text](img/cla18-0075-s.jpg)
+![alt text](img/cla18-0075.jpg)
 
 ## どんぐり山児童公園
 

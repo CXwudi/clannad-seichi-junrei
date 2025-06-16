@@ -145,21 +145,7 @@ common さくら板
 
 ### Highlight 地点
 
-商店街约会
-
-![alt text](img/cla18-0047-s.jpg)
-![alt text](img/cla18-0047.jpg)
-
-![alt text](img/cla-12-29-s.jpg) 与风子的第12集一致
-![alt text](img/cla18-0054.jpg)
-![alt text](img/cla18-0055.jpg)
-
-![alt text](img/cla18-0071-s.jpg)
-![alt text](img/cla18-0071.jpg)
-![alt text](img/cla18-0074.jpg)
-
-![alt text](img/cla18-0075-s.jpg)
-![alt text](img/cla18-0075.jpg)
+common 商店街
 
 common 车站
 
@@ -177,7 +163,7 @@ common 车站
 ![alt text](img/cla18-0087-s.jpg)
 ![alt text](img/cla18-0087.jpg)
 
-![alt text](img/cla18-0088-s.jpg)
+![alt text](img/cla18-0088-s.jpg) (与11集杏告白一个场景)
 ![alt text](img/cla18-0088.jpg)
 
 common 樱花坡道
