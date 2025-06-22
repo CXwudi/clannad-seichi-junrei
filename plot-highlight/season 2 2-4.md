@@ -91,48 +91,7 @@ common どんぐり山児童公園
 ![alt text](img/cla-af-3-005-s.jpg)
 ![alt text](img/cla-af-3-078.jpg)
 
-商店街
-
-![alt text](img/cla-af-3-007-s.jpg)
-![alt text](img/cla-af-3-185.jpg)
-
-![alt text](img/cla-af-3-008-s.jpg)
-![alt text](img/cla-af-3-187.jpg)
-
-![alt text](img/cla-af-3-009-s.jpg)
-![alt text](img/cla-af-3-188.jpg)
-![alt text](img/cla-af-3-189.jpg)
-
-![alt text](img/cla-af-3-010-s.jpg)
-![alt text](img/cla-af-3-190.jpg)
-
-![alt text](img/cla-af-3-011-s.jpg)
-![alt text](img/cla-af-3-199.jpg)
-![alt text](img/cla-af-3-201.jpg)
-
-![alt text](img/cla-af-3-012-s.jpg)
-![alt text](img/cla-af-3-207.jpg)
-![alt text](img/cla-af-3-211.jpg)
-
-![alt text](img/cla-af-3-014-s.jpg)
-![alt text](img/cla-af-3-231.jpg)
-![alt text](img/cla-af-3-226.jpg)
-
-![alt text](img/cla-af-3-015-s.jpg)
-![alt text](img/cla-af-3-237.jpg)
-![alt text](img/cla-af-3-290.jpg)
-
-![alt text](img/cla-af-3-017-s.jpg)
-![alt text](img/cla-af-3-250.jpg)
-
-![alt text](img/cla-af-3-019-s.jpg) (感觉这个游戏厅可能不存在)
-![alt text](img/cla-af-3-262.jpg)
-![alt text](img/cla-af-3-267.jpg)
-![alt text](img/cla-af-3-291.jpg)
-
-![alt text](img/cla-af-3-018-s.jpg)
-![alt text](img/cla-af-3-272.jpg)
-![alt text](img/cla-af-3-294.jpg)
+common 商店街
 
 ## 4. 笑容依旧
 

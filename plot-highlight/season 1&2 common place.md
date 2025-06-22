@@ -761,9 +761,54 @@ AF第22集
 
 AF第3集
 
+春原与早苗的假装约会
+
 ![alt text](<img/Screenshot 2025-06-22 175050.png>)
 ![alt text](<img/Clannad ~After Story~ 2008 EP03 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_03.55.424.png>)
 ![alt text](<img/Clannad ~After Story~ 2008 EP03 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_03.54.421.png>)
+
+朋也带着芽衣出去玩时
+
+![alt text](img/cla-af-3-007-s.jpg)
+![alt text](img/cla-af-3-185.jpg)
+
+![alt text](img/cla-af-3-008-s.jpg)
+![alt text](img/cla-af-3-187.jpg)
+
+![alt text](img/cla-af-3-009-s.jpg)
+![alt text](img/cla-af-3-188.jpg)
+![alt text](img/cla-af-3-189.jpg)
+
+![alt text](img/cla-af-3-010-s.jpg)
+![alt text](img/cla-af-3-190.jpg)
+
+![alt text](img/cla-af-3-011-s.jpg)
+![alt text](img/cla-af-3-199.jpg)
+![alt text](img/cla-af-3-201.jpg)
+
+![alt text](img/cla-af-3-012-s.jpg)
+![alt text](img/cla-af-3-207.jpg)
+![alt text](img/cla-af-3-211.jpg)
+
+![alt text](img/cla-af-3-014-s.jpg)
+![alt text](img/cla-af-3-231.jpg)
+![alt text](img/cla-af-3-226.jpg)
+
+![alt text](img/cla-af-3-015-s.jpg)
+![alt text](img/cla-af-3-237.jpg)
+![alt text](img/cla-af-3-290.jpg)
+
+![alt text](img/cla-af-3-017-s.jpg)
+![alt text](img/cla-af-3-250.jpg)
+
+![alt text](img/cla-af-3-019-s.jpg) (感觉这个游戏厅可能不存在)
+![alt text](img/cla-af-3-262.jpg)
+![alt text](img/cla-af-3-267.jpg)
+![alt text](img/cla-af-3-291.jpg)
+
+![alt text](img/cla-af-3-018-s.jpg)
+![alt text](img/cla-af-3-272.jpg)
+![alt text](img/cla-af-3-294.jpg)
 
 ## どんぐり山児童公園
 
