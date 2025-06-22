@@ -416,6 +416,24 @@ AF第5集
 ![alt text](img/cla-nag-koen-1s.jpg)
 ![alt text](img/cla-nag-koen-1.jpg)
 
+野餐去家门口
+
+使用以下Google地图对照
+
+![alt text](img/image3.png)
+
+![alt text](img/cla-20-base-0.jpg)
+![alt text](img/cla20-0111.jpg)
+![alt text](img/cla20-0112.jpg)
+
+![alt text](img/cla-20-base-1.jpg)
+![alt text](img/cla20-0115.jpg)
+![alt text](img/cla20-0119.jpg)
+
+![alt text](img/cla-20-base-2.jpg)
+![alt text](img/cla20-0121.jpg)
+![alt text](img/cla20-0123.jpg)
+
 AF第2集
 
 ![alt text](img/cla-af-2-131.jpg)(对着房子拍)

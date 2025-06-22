@@ -84,30 +84,12 @@ common さくら板
 
 ### Highlight 地点
 
-common 樱花坡道
+common 古河渚家
 
 渚父母以前的公寓
 
 ![alt text](img/cla20-0078-s0.jpg)
 ![alt text](img/cla20-0078.jpg)
-
-野餐去家门口
-
-使用以下Google地图对照
-
-![alt text](img/image3.png)
-
-![alt text](img/cla-20-base-0.jpg)
-![alt text](img/cla20-0111.jpg)
-![alt text](img/cla20-0112.jpg)
-
-![alt text](img/cla-20-base-1.jpg)
-![alt text](img/cla20-0115.jpg)
-![alt text](img/cla20-0119.jpg)
-
-![alt text](img/cla-20-base-2.jpg)
-![alt text](img/cla20-0121.jpg)
-![alt text](img/cla20-0123.jpg)
 
 ## 21. 
 
