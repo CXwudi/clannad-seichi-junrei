@@ -1073,6 +1073,36 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>【93.1】</name>
+        <description><![CDATA[【CLANNAD 1話】<br>朋也、商店街<br>【CLANNAD 8話】<br>朋也、風子、渚、商店街に行く<br>一つsence]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7204084,35.708063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【93.2】宝石屋と会計士</name>
+        <description><![CDATA[【CLANNAD 12話】<br>これも第六話ででてくる、風子の宝石屋の向かい。ケーキ屋ではありませんが、多分あっているかと<br>【CLANNAD 18話】<br>椋、杏、智也、商店街へ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7201366,35.7079178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【93.3】椋、杏、智也、商店街から戻る</name>
+        <description><![CDATA[【CLANNAD 18話】<br>椋、杏、智也、寂しく帰宅路へ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.720303,35.707989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>【94】智代、ふられる</name>
         <description><![CDATA[【CLANNAD 智代編】<br>智代の目標のためには自分が邪魔だと、朋也は智代に別れようと告げる。]]></description>
         <styleUrl>#icon-22</styleUrl>
@@ -1874,7 +1904,7 @@
       </Placemark>
       <Placemark>
         <name>[243] 第12话, 琴美家背面</name>
-        <description>不能公开</description>
+        <description>私宅勿扰</description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
           <coordinates>
@@ -1944,6 +1974,15 @@
         <Point>
           <coordinates>
             139.6766111,35.5857608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[251] 第13集 sence</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            139.3610388,35.7565531,0
           </coordinates>
         </Point>
       </Placemark>
