@@ -107,14 +107,7 @@ common 古河渚家
 
 ### Highlight 地点
 
-风子路口
-
-![alt text](img/cla21-0039-s.jpg)
-![alt text](img/cla21-0039.jpg)
-
-![alt text](img/cla21-0043-s.jpg)
-![alt text](img/cla21-0040.jpg)
-
+common 风子路口
 
 ## 22. 形影不离
 
@@ -152,6 +145,8 @@ common 古河渚家
 ### Highlight 地点
 
 common 樱花坡道
+
+common 商店街（一个场景而已）
 
 ## 19 - 22 集总结
 

@@ -614,6 +614,14 @@ AF第17集
 ![alt text](img/cla19-0045-s.jpg) 左侧一角的商店一致
 ![alt text](img/cla19-0045.jpg)
 
+第21集
+
+![alt text](img/cla21-0039-s.jpg)
+![alt text](img/cla21-0039.jpg)
+
+![alt text](img/cla21-0043-s.jpg)
+![alt text](img/cla21-0040.jpg)
+
 AF第3集
 
 ![alt text](img/cla-af-3-002-s.jpg)
@@ -735,6 +743,11 @@ AF第22集
 
 ![alt text](img/cla18-0075-s.jpg)
 ![alt text](img/cla18-0075.jpg)
+
+第22集
+
+![alt text](img/cla-12-22-s.jpg)
+![alt text](img/cla-22-0233.jpg)
 
 ## どんぐり山児童公園
 
