@@ -107,7 +107,7 @@
 ![alt text](img/cla-af-8-s43.jpg)
 ![alt text](img/cla-af-8-082.jpg)
 
-common 八幡市木津川 
+common 八幡市木津川
 
 墓地
 ![alt text](img/cla-af-8-s39.jpg)

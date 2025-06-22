@@ -589,7 +589,6 @@ AF第17集
 ![alt text](img/cla-af-17-027.jpg)
 ![alt text](img/cla-af-17-028.jpg)
 
-
 ## 风子十字路口
 
 上面的演碟本店就是最大的特征, 即使十字路口的其他建筑都变了
@@ -760,10 +759,44 @@ AF第22集
 ![alt text](img/cla-12-22-s.jpg)
 ![alt text](img/cla-22-0233.jpg)
 
+AF第3集
+
+![alt text](<img/Screenshot 2025-06-22 175050.png>)
+![alt text](<img/Clannad ~After Story~ 2008 EP03 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_03.55.424.png>)
+![alt text](<img/Clannad ~After Story~ 2008 EP03 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_03.54.421.png>)
+
 ## どんぐり山児童公園
 
-TODO: 把春原与早苗的假装约会那一集的剧情拿过来
+AF第3集
 
+![alt text](img/cla-af-3-041-s.jpg)
+![alt text](img/cla-af-3-054.jpg)
+
+![alt text](img/cla-af-3-031-s.jpg)
+![alt text](img/cla-af-3-056.jpg)
+
+![alt text](img/cla-af-3-042-s.jpg)
+![alt text](img/cla-af-3-058.jpg)
+![alt text](img/cla-af-3-057.jpg)
+
+![alt text](img/cla-af-3-034-s.jpg)
+![alt text](img/cla-af-3-059.jpg)
+
+![alt text](img/cla-af-3-036-s.jpg) (方位有点off， 是因为秋千真实是斜着摆的)
+![alt text](img/cla-af-3-060.jpg)
+
+![alt text](img/cla-af-3-035-s.jpg)
+![alt text](img/cla-af-3-061.jpg)
+
+![alt text](img/cla-af-3-037-s.jpg)
+![alt text](img/cla-af-3-064.jpg)
+
+![alt text](img/cla-af-3-040-s.jpg)
+![alt text](img/cla-af-3-072.jpg)
+
+![alt text](img/cla-af-3-039-s.jpg)
+![alt text](img/cla-af-3-071.jpg)
+![alt text](img/cla-af-3-073.jpg)
 
 AF第13集
 

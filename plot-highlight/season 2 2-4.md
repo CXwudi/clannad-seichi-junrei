@@ -75,39 +75,11 @@ common 风子十字路口
 ![alt text](img/cla-af-3-022-s.jpg)
 ![alt text](img/cla-af-3-027.jpg)
 
-
 ![alt text](img/cla-af-3-024-s.jpg)
 
-どんぐり山児童公園
+common 商店街
 
-![alt text](img/cla-af-3-041-s.jpg)
-![alt text](img/cla-af-3-054.jpg)
-
-![alt text](img/cla-af-3-031-s.jpg)
-![alt text](img/cla-af-3-056.jpg)
-
-![alt text](img/cla-af-3-042-s.jpg)
-![alt text](img/cla-af-3-058.jpg)
-![alt text](img/cla-af-3-057.jpg)
-
-![alt text](img/cla-af-3-034-s.jpg)
-![alt text](img/cla-af-3-059.jpg)
-
-![alt text](img/cla-af-3-036-s.jpg) (方位有点off， 是因为秋千真实是斜着摆的)
-![alt text](img/cla-af-3-060.jpg)
-
-![alt text](img/cla-af-3-035-s.jpg)
-![alt text](img/cla-af-3-061.jpg)
-
-![alt text](img/cla-af-3-037-s.jpg)
-![alt text](img/cla-af-3-064.jpg)
-
-![alt text](img/cla-af-3-040-s.jpg)
-![alt text](img/cla-af-3-072.jpg)
-
-![alt text](img/cla-af-3-039-s.jpg)
-![alt text](img/cla-af-3-071.jpg)
-![alt text](img/cla-af-3-073.jpg)
+common どんぐり山児童公園
 
 夜晚
 
