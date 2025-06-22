@@ -293,7 +293,7 @@ common 古河渚家与公园
 买菜路过的时候
 
 ![alt text](<img/2025-04-26 23-25-59.jpg>)
-![alt text](image5.png)
+![alt text](img/image5.png)
 
 遇见风子
 
