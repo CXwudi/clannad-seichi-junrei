@@ -22,14 +22,7 @@
 
 ### Highlight 地点
 
-さくら板
-
-![alt text](img/cla-af-2-112-s0.jpg)
-![alt text](img/cla-af-2-112.jpg)
-
-![alt text](img/cla-af-2-114-s.jpg)
-![alt text](img/cla-af-2-114.jpg)
-![alt text](img/cla-af-2-113.jpg)
+common さくら板
 
 common 车站
 

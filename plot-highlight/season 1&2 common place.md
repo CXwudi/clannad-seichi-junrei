@@ -379,6 +379,15 @@ AF第5集
 ![alt text](img/cla19-0122-s.jpg) (此为さくら板北面的桥, AF第5集会有更多说明)
 ![alt text](img/cla19-0122.jpg)
 
+AF第2集
+
+![alt text](img/cla-af-2-112-s0.jpg)
+![alt text](img/cla-af-2-112.jpg)
+
+![alt text](img/cla-af-2-114-s.jpg)
+![alt text](img/cla-af-2-114.jpg)
+![alt text](img/cla-af-2-113.jpg)
+
 ## 古河渚家与公园 (かめのこ児童公園)
 
 所有古河渚面包店图认准这个图
