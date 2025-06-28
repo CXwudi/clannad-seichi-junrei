@@ -388,6 +388,37 @@ AF第2集
 ![alt text](img/cla-af-2-114.jpg)
 ![alt text](img/cla-af-2-113.jpg)
 
+AF第5集
+
+(桥上)
+
+![alt text](img/cla-af-5-18-s0.jpg)
+![alt text](img/cla-af-5-145.jpg)
+
+![alt text](img/cla-af-5-23-s.jpg)
+![alt text](img/cla-af-5-152.jpg)
+![alt text](img/cla-af-5-153.jpg)
+
+![alt text](img/cla-af-5-22-s.jpg)
+![alt text](img/cla-af-5-154.jpg)
+
+![alt text](img/cla-af-5-21-s.jpg)
+![alt text](img/cla-af-5-160.jpg)
+
+![alt text](img/cla-af-5-19-s.jpg)
+![alt text](img/cla-af-5-161.jpg)
+
+![alt text](img/cla-af-5-18-s2.jpg)
+![alt text](img/cla-af-5-20-s.jpg)
+![alt text](img/cla-af-5-165.jpg)
+![alt text](img/cla-af-5-166.jpg)
+
+![alt text](img/cla-af-5-22-s-1.jpg)
+![alt text](img/cla-af-5-170.jpg)
+![alt text](img/cla-af-5-173.jpg)
+
+![alt text](cla-af-5-18-s1.jpg) (通过占位和桥旁边的房子可以判断, 这一段需要从南往北拍, 也就是从さくら板十字路口往桥方向拍)
+
 ## 古河渚家与公园 (かめのこ児童公園)
 
 所有古河渚面包店图认准这个图
@@ -674,6 +705,21 @@ AF第3集
 ![alt text](img/cla-12-119-s.jpg)
 ![alt text](img/cla-12-118.jpg)
 ![alt text](<img/Clannad 2007 EP12 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_19.50.990.png>)
+
+AF第5集
+
+![alt text](img/cla-af-5-11-s.jpg)
+![alt text](img/cla-af-5-082.jpg)
+
+![alt text](img/cla-af-5-12-s.jpg)
+![alt text](img/cla-af-5-085.jpg)
+![alt text](img/cla-af-5-088.jpg)
+
+![alt text](img/cla-af-5-10-s.jpg)
+![alt text](img/cla-af-5-092.jpg)
+
+![alt text](img/cla-af-5-9-s.jpg)
+![alt text](img/cla-af-5-093.jpg)
 
 AF第22集
 

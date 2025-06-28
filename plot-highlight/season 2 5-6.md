@@ -39,47 +39,9 @@ common 春原宿舍
 
 common 樱花坡道
 
-峡山池公园
+common 峡山池公园
 
-![alt text](img/cla-af-5-11-s.jpg)
-![alt text](img/cla-af-5-082.jpg)
-
-![alt text](img/cla-af-5-12-s.jpg)
-![alt text](img/cla-af-5-085.jpg)
-![alt text](img/cla-af-5-088.jpg)
-
-![alt text](img/cla-af-5-10-s.jpg)
-![alt text](img/cla-af-5-092.jpg)
-
-![alt text](img/cla-af-5-9-s.jpg)
-![alt text](img/cla-af-5-093.jpg)
-
-さくら板
-
-![alt text](img/cla-af-5-18-s0.jpg)
-![alt text](img/cla-af-5-145.jpg)
-
-![alt text](img/cla-af-5-23-s.jpg)
-![alt text](img/cla-af-5-152.jpg)
-![alt text](img/cla-af-5-153.jpg)
-
-![alt text](img/cla-af-5-22-s.jpg)
-![alt text](img/cla-af-5-154.jpg)
-
-![alt text](img/cla-af-5-21-s.jpg)
-![alt text](img/cla-af-5-160.jpg)
-
-![alt text](img/cla-af-5-19-s.jpg)
-![alt text](img/cla-af-5-161.jpg)
-
-![alt text](img/cla-af-5-18-s2.jpg)
-![alt text](img/cla-af-5-20-s.jpg)
-![alt text](img/cla-af-5-165.jpg)
-![alt text](img/cla-af-5-166.jpg)
-
-![alt text](img/cla-af-5-22-s-1.jpg)
-![alt text](img/cla-af-5-170.jpg)
-![alt text](img/cla-af-5-173.jpg)
+common さくら板
 
 ## 6. 一直在你身旁
 
