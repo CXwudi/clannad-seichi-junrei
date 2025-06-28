@@ -721,6 +721,44 @@ AF第5集
 ![alt text](img/cla-af-5-9-s.jpg)
 ![alt text](img/cla-af-5-093.jpg)
 
+AF第6集
+
+![alt text](img/cla-af-5-8-s.jpg)
+![alt text](img/cla-af-6-011.jpg)
+
+![alt text](img/cla-af-6-3-s.jpg)
+![alt text](img/cla-af-6-012.jpg)
+
+![alt text](img/cla-af-6-2-s.jpg)
+![alt text](img/cla-af-6-013.jpg)
+
+![alt text](img/cla-af-6-9-s.jpg)
+![alt text](img/cla-af-6-014.jpg)
+
+![alt text](img/cla-af-6-s0.jpg) (这个角度跟第一季第8集风子他们第一次去这个公园是一个角度)
+![alt text](img/cla-af-6-017.jpg)
+
+![alt text](img/cla-af-6-6-s.jpg)
+![alt text](img/cla-af-6-025.jpg)
+
+![alt text](img/cla-af-6-7-s.jpg)
+![alt text](img/cla-af-6-030.jpg)
+![alt text](img/cla-af-6-031.jpg)
+
+![alt text](img/cla-af-6-5-s.jpg)
+![alt text](img/cla-af-6-032.jpg)
+![alt text](img/cla-af-6-034.jpg)
+
+![alt text](img/cla-af-6-4-s.jpg)
+![alt text](img/cla-af-6-035.jpg)
+
+![alt text](img/cla-af-6-8-s.jpg)
+![alt text](img/cla-af-6-037.jpg) (这角度对吗)
+
+![alt text](img/cla-af-6-32-s.jpg)
+![alt text](img/cla-af-6-105.jpg)
+![alt text](img/cla-af-6-108.jpg)
+
 AF第22集
 
 ![alt text](img/cla-af-22-8-s.jpg)
