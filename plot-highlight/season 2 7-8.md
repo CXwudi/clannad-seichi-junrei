@@ -28,6 +28,8 @@
 
 ### Highlight 地点
 
+common 樱花坡道
+
 木津川
 
 ![alt text](img/cla-af-7-0-s.jpg)
