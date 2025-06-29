@@ -43,8 +43,7 @@ common 樱花坡道
 ![alt text](img/cla-af-7-11-s.jpg)
 ![alt text](img/cla-af-7-109.jpg)
 
-
-![alt text](img/cla-af-7-8-s.jpg) (好像与第一季某一集一闪而过的一模一样)
+![alt text](img/cla-af-7-8-s.jpg)
 
 ## 8. 英勇的战斗
 
