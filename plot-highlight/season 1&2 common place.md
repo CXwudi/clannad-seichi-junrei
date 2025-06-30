@@ -294,7 +294,6 @@ AF第11集
 
 ![alt text](img/cla130058-s.jpg)
 
-
 第13集
 
 ![alt text](img/cla130058.jpg)
@@ -303,6 +302,10 @@ AF第11集
 
 ![alt text](img/cla-7-5-s0.jpg)
 ![alt text](img/cla15-0106.jpg)
+
+AF第9集
+
+![alt text](img/cla-af-9-054.jpg)
 
 ## 春原宿舍
 
@@ -321,8 +324,8 @@ AF第11集
 
 第16集
 
-![alt text](cla16-0025-s.jpg) (为宿舍正门对面的居民楼, 截止至收集时间还在)
-![alt text](cla16-0025.jpg)
+![alt text](img/cla16-0025-s.jpg) (为宿舍正门对面的居民楼, 截止至收集时间还在)
+![alt text](img/cla16-0025.jpg)
 
 第17集
 
@@ -417,7 +420,7 @@ AF第5集
 ![alt text](img/cla-af-5-170.jpg)
 ![alt text](img/cla-af-5-173.jpg)
 
-![alt text](cla-af-5-18-s1.jpg) (通过占位和桥旁边的房子可以判断, 这一段需要从南往北拍, 也就是从さくら板十字路口往桥方向拍)
+![alt text](img/cla-af-5-18-s1.jpg) (通过占位和桥旁边的房子可以判断, 这一段需要从南往北拍, 也就是从さくら板十字路口往桥方向拍)
 
 ## 古河渚家与公园 (かめのこ児童公園)
 
