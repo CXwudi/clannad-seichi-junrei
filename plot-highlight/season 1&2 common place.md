@@ -294,6 +294,10 @@ AF第11集
 
 ![alt text](img/cla130058-s.jpg)
 
+第1集
+
+![alt text](<img/Clannad 2007 EP01 [BluRay 1920x1080p 23.976fps x264-Hi10P FLACx2] - mawen1250.mkv_snapshot_15.33.697.png>)
+
 第13集
 
 ![alt text](img/cla130058.jpg)
