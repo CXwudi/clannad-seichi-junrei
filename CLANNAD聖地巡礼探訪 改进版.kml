@@ -439,7 +439,7 @@
         <styleUrl>#icon-22</styleUrl>
         <Point>
           <coordinates>
-            139.361634,35.763654,0
+            139.3615213,35.7636301,0
           </coordinates>
         </Point>
       </Placemark>
@@ -884,7 +884,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>【75】</name>
+        <name>【75】どんぐり山児童公園</name>
         <description><![CDATA[【AFTER STORY 03話】<br>春原と早苗のデートコース。<br>帰り道が分からなくなった小さな兄妹を発見する。]]></description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
@@ -1038,13 +1038,13 @@
         <styleUrl>#icon-22</styleUrl>
         <Point>
           <coordinates>
-            139.719339,35.706994,0
+            139.7193417,35.7070506,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>【91】おもちゃ屋</name>
-        <description><![CDATA[【CLANNAD 08,12話／AFTER STORY 11話】<br>08話：朋也が風子におたんじょう会セットを買い与える<br>12話：集団デートで通りがかる。<br>11話：秋生行きつけの店。いきなりじいさんが襲い掛かってくる。]]></description>
+        <description><![CDATA[【CLANNAD 08,12話／AFTER STORY 03,11話】<br>08話：朋也が風子におたんじょう会セットを買い与える<br>12話：集団デートで通りがかる。<br>03話：兄を心配してばかりでは疲れると、朋也は芽衣を遊びに連れ出す。そして、杏、椋、琴美に見られた<br>11話：秋生行きつけの店。いきなりじいさんが襲い掛かってくる。]]></description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
           <coordinates>
@@ -1053,8 +1053,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>【92】夜の商店街／合同デート</name>
-        <description><![CDATA[【CLANNAD 01,12話】<br>01話：直幸が寝るまで、朋也がうろつく。<br>12話：朋也、渚、ことみと、杏、椋が合流。]]></description>
+        <name>【92】夜の商店街／合同デート／安い部屋を探す</name>
+        <description><![CDATA[【CLANNAD 01,12話】<br>01話：直幸が寝るまで、朋也がうろつく。<br>12話：朋也、渚、ことみと、杏、椋が合流。<br>【CLANNAD AFTER STORY 10話】<br>朋也、自分の家を探す、でも家賃が高い]]></description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
           <coordinates>
@@ -1093,8 +1093,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>【93.3】椋、杏、智也、商店街から戻る</name>
-        <description><![CDATA[【CLANNAD 18話】<br>椋、杏、智也、寂しく帰宅路へ]]></description>
+        <name>【93.3】商店街　早苗喫茶店</name>
+        <description><![CDATA[【CLANNAD 08話】<br>朋也、風子、渚、商店街で<br>【CLANNAD 18話】<br>椋、杏、智也、寂しく帰宅路へ]]></description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
           <coordinates>
@@ -1475,7 +1475,7 @@
       <Placemark>
         <name>【162】アフタージャケット／朋也の新居</name>
         <description><![CDATA[【AFTER STORY DVD初回限定版 6巻 ジャケット表紙／AFTER STORY 10話】<br>椋の紹介で住み始める新居。<br>劇中の建物はかなり昔に建て替えられています。]]></description>
-        <styleUrl>#icon-22</styleUrl>
+        <styleUrl>#icon-960-DB4436</styleUrl>
         <Point>
           <coordinates>
             135.506087,34.775568,0
@@ -1983,6 +1983,16 @@
         <Point>
           <coordinates>
             139.3610388,35.7565531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【91.1】早苗と春原、商店街に行</name>
+        <description>sceneかもしれません</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7196401,35.7074229,0
           </coordinates>
         </Point>
       </Placemark>
