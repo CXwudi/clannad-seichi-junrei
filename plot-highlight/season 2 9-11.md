@@ -82,32 +82,7 @@ common 樱花坡道
 ![alt text](img/cla-af-10-9-s.jpg)
 ![alt text](img/cla-af-10-067.jpg)
 
-商店街
-
-![alt text](img/cla-af-10-14-s.jpg)
-![alt text](img/cla-af-10-069.jpg)
-
-![alt text](img/cla-af-10-16-s.jpg)
-![alt text](img/cla-af-10-073.jpg)
-![alt text](img/cla-af-10-074.jpg)
-
-![alt text](img/cla-af-10-076.jpg)
-![alt text](img/cla-af-10-15-s.jpg)
-
-![alt text](img/cla-af-10-17-s.jpg)
-![alt text](img/cla-af-10-077.jpg)
-
-![alt text](img/cla-af-10-18-s.jpg)
-![alt text](img/cla-af-10-078.jpg)
-
-![alt text](img/cla-af-10-19-s.jpg)
-![alt text](img/cla-af-10-079.jpg)
-
-![alt text](img/cla-af-10-22-s.jpg)
-![alt text](img/cla-af-10-080.jpg)
-
-![alt text](img/cla-af-10-21-s.jpg)
-![alt text](img/cla-af-10-081.jpg)
+common 商店街
 
 回到芳野和电线杆
 
