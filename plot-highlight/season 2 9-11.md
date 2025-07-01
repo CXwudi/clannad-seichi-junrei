@@ -65,7 +65,7 @@ common 樱花坡道
 
 ### Highlight 地点
 
-![alt text](img/cla-af-10-3-s.jpg)
+![alt text](img/cla-af-10-3-s.jpg) (找不到😅)
 ![alt text](img/cla-af-10-046.jpg)
 
 芳野和电线杆
