@@ -167,6 +167,22 @@ common 八幡市木津川
 ![alt text](img/cla-af-16-015.jpg)
 ![alt text](img/cla-af-16-016.jpg)
 
+common 朋也新家附近
+
+一些 cutsence
+
+![alt text](img/cla-af-16-s6.jpg) （箱根ヶ崎駅）
+![alt text](img/cla-af-16-042.jpg)
+
+![alt text](img/cla-ha-6.jpg)
+![alt text](img/cla-af-16-040.jpg)
+
+![alt text](img/cla-af-16-s7.jpg) (与21集汐去世是一个地方，也是朋也新家附近)
+![alt text](img/cla-af-16-041.jpg)
+
+![alt text](img/cla-af-16-s21.jpg) （桃山南口駅近く）
+![alt text](img/cla-af-16-045.jpg)
+
 ## 13-16集大概
 
 重点在于渚的去世，以及看到渚受苦时朋也的动摇，对过去从遇见渚，两人互相扶持到现在的一切都开始动摇起来，而这份动摇很有可能与过去跟父亲有关系
