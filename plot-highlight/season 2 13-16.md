@@ -100,10 +100,7 @@ common 八幡市木津川
 
 ### Highlight 地点
 
-さくら板
-
-![alt text](img/cla-af-15-s-2.jpg)
-![alt text](img/cla-af-15-012.jpg)
+common さくら板
 
 common 朋也新家附近
 
