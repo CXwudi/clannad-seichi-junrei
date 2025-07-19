@@ -933,6 +933,11 @@ AF第10集
 ![alt text](img/cla-af-10-21-s.jpg)
 ![alt text](img/cla-af-10-081.jpg)
 
+AF第17集
+
+![alt text](img/cla-af-17-4-s.jpg)
+![alt text](img/cla-af-17-055.jpg)
+
 ## どんぐり山児童公園
 
 AF第3集
