@@ -104,6 +104,8 @@
 ![alt text](img/cla-af-21-7-s.jpg)
 ![alt text](img/cla-af-21-083.jpg)
 
+common 朋也新家
+
 ## 22. 小小的手心
 
 - 光世界已是一片白雪，机器人和少女都倒下
