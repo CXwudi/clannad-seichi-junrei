@@ -23,8 +23,13 @@
 
 ### Highlight 地点
 
-![alt text](img/cla-af-20-4-s.jpg)（与19话一样是被拆掉的房子）
+![alt text](img/cla-af-20-4-s.jpg)（与19话一样是被大火烧掉的京都动漫大楼）
 ![alt text](img/cla-af-20-056.jpg)
+
+![alt text](img/cla-af-20-048.jpg) (原京都动漫大楼的旁边, 与19年的大火一并烧毁, 背景的房子已变, 只有围墙还在)
+![alt text](img/image10.png)
+![alt text](img/cla-af-20-3-s.jpg)
+
 
 汐独自散步，common 朋也新家附近
 

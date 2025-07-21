@@ -282,7 +282,7 @@ common 古河渚家与公园
 ![alt text](img/cla-af-19-2-s1.jpg)
 ![alt text](img/cla-af-19-061.jpg)
 
-![alt text](img/cla-af-19-7-s.jpg)（很可惜这栋楼已经拆了）
+![alt text](img/cla-af-19-7-s.jpg)（此楼为原京都动漫Kyoto Animation的大楼, 因2019年著名的纵火事件现已经烧毁, 而这一集与第20集的圣地也一并烧毁）
 ![alt text](img/cla-af-19-052.jpg)
 
 
