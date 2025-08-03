@@ -23,6 +23,16 @@ npm-debug.log
 yarn-error.log
 yarn-debug.log
 
+# Python specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+.venv/
+
 # Temporary files
 *.tmp
 *.temp

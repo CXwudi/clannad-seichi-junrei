@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-import os
-import sys
 import logging
 import argparse
 from pathlib import Path
-from collections import defaultdict
 from typing import Tuple, List, Dict, Any
+import unicodedata
 
 # Global logger
 logger: logging.Logger
@@ -33,6 +31,16 @@ def count_items_in_folder(folder_path: Path) -> Tuple[int, int, int]:
     except OSError as e:
         logger.error("Error accessing %s: %s", folder_path, e)
         return 0, 0, 0
+
+def get_display_width(text: str) -> int:
+    """Calculate the display width of a string, accounting for wide characters."""
+    width = 0
+    for char in text:
+        if unicodedata.east_asian_width(char) in ('F', 'W'):
+            width += 2  # Full-width or wide characters
+        else:
+            width += 1  # Normal characters
+    return width
 
 def analyze_folder_stats(input_folder: str) -> None:
     """Analyze statistics for each subfolder in the input folder."""
@@ -77,16 +85,28 @@ def analyze_folder_stats(input_folder: str) -> None:
     folder_stats.sort(key=lambda x: x['total'], reverse=True)
     logger.info("Analysis complete, displaying results")
     
-    # Display results
+    # Display results with manual formatting to handle wide characters
     print(f"\nFolder Statistics for: {input_folder}")
-    print("=" * 80)
-    print(f"{'Folder Name':<30} {'Files':<8} {'Folders':<8} {'Total':<8}")
-    print("-" * 80)
+    print("=" * 100)
     
+    # Calculate the maximum width needed for folder names
+    max_name_width = max(get_display_width(stats['name']) for stats in folder_stats)
+    max_name_width = max(max_name_width, len("Folder Name"))
+    
+    # Print header
+    header = f"{'Folder Name':<{max_name_width}} {'Files':>8} {'Folders':>8} {'Total':>8}"
+    print(header)
+    print("-" * len(header))
+    
+    # Print each row with proper padding
     for stats in folder_stats:
-        print(f"{stats['name']:<30} {stats['files']:<8} {stats['folders']:<8} {stats['total']:<8}")
+        name = stats['name']
+        name_width = get_display_width(name)
+        padding = max_name_width - name_width
+        formatted_row = f"{name}{' ' * padding} {stats['files']:>8} {stats['folders']:>8} {stats['total']:>8}"
+        print(formatted_row)
     
-    print("-" * 80)
+    print("-" * len(header))
     print(f"Total subdirectories analyzed: {len(folder_stats)}")
     
     # Summary statistics
