@@ -765,7 +765,7 @@
       </Placemark>
       <Placemark>
         <name>【58】風子、歩く (修正）</name>
-        <description><![CDATA[【AFTER STORY 最終回】<br>風子と公子、病院へ向かう道中。<br><br>修正内容：选择的是有桌子的那个场景]]></description>
+        <description><![CDATA[【AFTER STORY 最終回】<br>風子と公子、病院へ向かう道中。<br><br>修正内容：选择的是有桌子的那个场景<br><br>【AFTER STORY 20話】 <br>汐、風子、六道山への道を登り…<br><br>增加：大概在这个位置]]></description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
           <coordinates>
@@ -1034,7 +1034,7 @@
       </Placemark>
       <Placemark>
         <name>【90】芽衣と遊びに／カレンダー風子</name>
-        <description><![CDATA[【AFTER STORY 03話／2009年京アニ製カレンダー 11,12月】<br>03話：兄を心配してばかりでは疲れると、朋也は芽衣を遊びに連れ出す。]]></description>
+        <description><![CDATA[【AFTER STORY 03,21話／2009年京アニ製カレンダー 11,12月】<br>03話：兄を心配してばかりでは疲れると、朋也は芽衣を遊びに連れ出す。<br>21話：カットシーン]]></description>
         <styleUrl>#icon-22</styleUrl>
         <Point>
           <coordinates>
@@ -1049,6 +1049,16 @@
         <Point>
           <coordinates>
             139.719744,35.707571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>【91.1】早苗と春原、商店街に行</name>
+        <description>sceneかもしれません</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7196401,35.7074229,0
           </coordinates>
         </Point>
       </Placemark>
@@ -1483,6 +1493,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>【162.5】汐、風子とばったり</name>
+        <description><![CDATA[【AFTER STORY 20話】<br>汐、風子とばったり、アパートまえです。]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            135.5060496,34.7754833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>【163】絶え絶えの汐</name>
         <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ 21話】<br>病気の汐の願いを叶えるため、朋也と汐が駅に向かう道中。]]></description>
         <styleUrl>#icon-22</styleUrl>
@@ -1595,7 +1615,7 @@
       <Placemark>
         <name>【183】アフターOP／アフタージャケット</name>
         <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ OP／AFTER STORY DVD初回限定版 3巻 ジャケット表紙】<br>蛇足：ジャケットのアングルは立ち入り禁止になっています。入らないように。]]></description>
-        <styleUrl>#icon-22</styleUrl>
+        <styleUrl>#icon-960-DB4436</styleUrl>
         <Point>
           <coordinates>
             135.710834,34.882371,0
@@ -1932,6 +1952,15 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>[245.1] 朋也新家附近 Pattern 1 - 弯道下十字路口</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            135.5130124,34.7717605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>[246] 汐の庭 (CLANNAD Galgame OP的那颗树)</name>
         <description><![CDATA[具体是哪颗树有点分辨不清，但是http://air.blue.coocan.jp/cla-af-22.html指出至少是这里<br><br>https://www.bilibili.com/video/BV1km4y1b7oV/指出原树已经被雷劈倒下了]]></description>
         <styleUrl>#icon-960-DB4436</styleUrl>
@@ -1969,30 +1998,11 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>[250] CLANNAD 第1集, 朋也君出逃</name>
-        <styleUrl>#icon-22-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            139.6766111,35.5857608,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>[251] 第13集 sence</name>
         <styleUrl>#icon-22-nodesc</styleUrl>
         <Point>
           <coordinates>
             139.3610388,35.7565531,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>【91.1】早苗と春原、商店街に行</name>
-        <description>sceneかもしれません</description>
-        <styleUrl>#icon-22</styleUrl>
-        <Point>
-          <coordinates>
-            139.7196401,35.7074229,0
           </coordinates>
         </Point>
       </Placemark>
