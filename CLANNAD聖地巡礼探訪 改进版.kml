@@ -414,6 +414,17 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>【21】アフターＥＤ
+</name>
+        <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ ＥＤ】<br>ＥＤ聖地の一つ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.3617543,35.7635308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>【22】アフターＥＤ</name>
         <description><![CDATA[【ＡＦＴＥＲ ＳＴＯＲＹ ＥＤ】<br>ＥＤ聖地の9カット目]]></description>
         <styleUrl>#icon-22</styleUrl>
